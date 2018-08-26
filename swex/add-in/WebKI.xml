@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddCommandGroup(Of TCmdEnum) method">
+    <HelpKINode Title="ISwAddInEx.AddCommandGroup(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddCommandGroup__1.htm" />
+    <HelpKINode Title="SwAddInEx.AddCommandGroup(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddCommandGroup__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddCommandGroup&lt;TCmdEnum&gt; method">
+    <HelpKINode Title="ISwAddInEx.AddCommandGroup(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddCommandGroup__1.htm" />
+    <HelpKINode Title="SwAddInEx.AddCommandGroup(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddCommandGroup__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddContextMenu(Of TCmdEnum) method">
+    <HelpKINode Title="ISwAddInEx.AddContextMenu(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddContextMenu__1.htm" />
+    <HelpKINode Title="SwAddInEx.AddContextMenu(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddContextMenu__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddContextMenu&lt;TCmdEnum&gt; method">
+    <HelpKINode Title="ISwAddInEx.AddContextMenu(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddContextMenu__1.htm" />
+    <HelpKINode Title="SwAddInEx.AddContextMenu(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddContextMenu__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="All enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="AllDocuments enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="Assembly enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="AutoRegisterAttribute class">
+    <HelpKINode Title="AutoRegisterAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AutoRegisterAttribute.AutoRegisterAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute__ctor.htm" />
+  <HelpKINode Title="AutoRegisterAttribute.Description property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_Description.htm" />
+  <HelpKINode Title="AutoRegisterAttribute.LoadAtStartup property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_LoadAtStartup.htm" />
+  <HelpKINode Title="AutoRegisterAttribute.Title property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_Title.htm" />
+  <HelpKINode Title="CallbackNotSpecifiedException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_CallbackNotSpecifiedException.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn namespace" Url="html/N_CodeStack_SwEx_AddIn.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes namespace" Url="html/N_CodeStack_SwEx_AddIn_Attributes.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.AutoRegisterAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.CommandGroupInfoAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.CommandItemInfoAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.IconAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_IconAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.TitleAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TitleAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Base namespace" Url="html/N_CodeStack_SwEx_AddIn_Base.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Base.ISwAddInEx interface" Url="html/T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.EnableMethodDelegate(Of TCmdEnum) delegate" Url="html/T_CodeStack_SwEx_AddIn_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.EnableMethodDelegate&lt;TCmdEnum&gt; delegate" Url="html/T_CodeStack_SwEx_AddIn_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums namespace" Url="html/N_CodeStack_SwEx_AddIn_Enums.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.CommandItemEnableState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.swWorkspaceTypes_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Exceptions namespace" Url="html/N_CodeStack_SwEx_AddIn_Exceptions.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Exceptions.CallbackNotSpecifiedException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_CallbackNotSpecifiedException.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Exceptions.GroupIdAlreadyExistsException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_GroupIdAlreadyExistsException.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Exceptions.InvalidMenuToolbarOptionsException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_InvalidMenuToolbarOptionsException.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.SwAddInEx class" Url="html/T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
+  <HelpKINode Title="CommandGroupInfoAttribute class">
+    <HelpKINode Title="CommandGroupInfoAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommandGroupInfoAttribute.CommandGroupInfoAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm" />
+  <HelpKINode Title="CommandGroupInfoAttribute.UserId property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute_UserId.htm" />
+  <HelpKINode Title="CommandItemEnableState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="CommandItemInfoAttribute class">
+    <HelpKINode Title="CommandItemInfoAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommandItemInfoAttribute.CommandItemInfoAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
+  <HelpKINode Title="CommandItemInfoAttribute.HasMenu property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_HasMenu.htm" />
+  <HelpKINode Title="CommandItemInfoAttribute.HasToolbar property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_HasToolbar.htm" />
+  <HelpKINode Title="CommandItemInfoAttribute.SupportedWorkspaces property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_SupportedWorkspaces.htm" />
+  <HelpKINode Title="Description property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_Description.htm" />
+  <HelpKINode Title="DeselectDisable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="DeselectEnable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="Drawing enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="EnableMethodDelegate(Of TCmdEnum) delegate" Url="html/T_CodeStack_SwEx_AddIn_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="EnableMethodDelegate&lt;TCmdEnum&gt; delegate" Url="html/T_CodeStack_SwEx_AddIn_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="GroupIdAlreadyExistsException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_GroupIdAlreadyExistsException.htm" />
+  <HelpKINode Title="HasMenu property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_HasMenu.htm" />
+  <HelpKINode Title="HasToolbar property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_HasToolbar.htm" />
+  <HelpKINode Title="IconAttribute class">
+    <HelpKINode Title="IconAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_IconAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_IconAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IconAttribute.IconAttribute constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_IconAttribute__ctor.htm" />
+  <HelpKINode Title="InvalidMenuToolbarOptionsException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_InvalidMenuToolbarOptionsException.htm" />
+  <HelpKINode Title="ISwAddInEx interface">
+    <HelpKINode Title="ISwAddInEx Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISwAddInEx.AddCommandGroup(Of TCmdEnum) method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddCommandGroup__1.htm" />
+  <HelpKINode Title="ISwAddInEx.AddCommandGroup&lt;TCmdEnum&gt; method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddCommandGroup__1.htm" />
+  <HelpKINode Title="ISwAddInEx.AddContextMenu(Of TCmdEnum) method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddContextMenu__1.htm" />
+  <HelpKINode Title="ISwAddInEx.AddContextMenu&lt;TCmdEnum&gt; method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddContextMenu__1.htm" />
+  <HelpKINode Title="ISwAddInEx.OnConnect method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnConnect.htm" />
+  <HelpKINode Title="ISwAddInEx.OnDisconnect method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnDisconnect.htm" />
+  <HelpKINode Title="LoadAtStartup property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_LoadAtStartup.htm" />
+  <HelpKINode Title="NoDocuments enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="OnConnect method">
+    <HelpKINode Title="ISwAddInEx.OnConnect Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnConnect.htm" />
+    <HelpKINode Title="SwAddInEx.OnConnect Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_OnConnect.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnDisconnect method">
+    <HelpKINode Title="ISwAddInEx.OnDisconnect Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnDisconnect.htm" />
+    <HelpKINode Title="SwAddInEx.OnDisconnect Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_OnDisconnect.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Part enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="SelectDisable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="SelectEnable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="SupportedWorkspaces property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_SupportedWorkspaces.htm" />
+  <HelpKINode Title="SwAddInEx class">
+    <HelpKINode Title="SwAddInEx Class" Url="html/T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SwAddInEx.AddCommandGroup(Of TCmdEnum) method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddCommandGroup__1.htm" />
+  <HelpKINode Title="SwAddInEx.AddCommandGroup&lt;TCmdEnum&gt; method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddCommandGroup__1.htm" />
+  <HelpKINode Title="SwAddInEx.AddContextMenu(Of TCmdEnum) method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddContextMenu__1.htm" />
+  <HelpKINode Title="SwAddInEx.AddContextMenu&lt;TCmdEnum&gt; method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddContextMenu__1.htm" />
+  <HelpKINode Title="SwAddInEx.OnConnect method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_OnConnect.htm" />
+  <HelpKINode Title="SwAddInEx.OnDisconnect method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_OnDisconnect.htm" />
+  <HelpKINode Title="swWorkspaceTypes_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="Title property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_Title.htm" />
+  <HelpKINode Title="TitleAttribute class">
+    <HelpKINode Title="TitleAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TitleAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_TitleAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TitleAttribute.TitleAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_TitleAttribute__ctor.htm" />
+  <HelpKINode Title="UserId property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute_UserId.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/v0-1-0.htm" />
+    <HelpKINode Title="1.0.0.0" Url="html/v0-2-2.htm" />
+    <HelpKINode Title="history" Url="html/version-history.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/welcome.htm" />
+</HelpKI>
