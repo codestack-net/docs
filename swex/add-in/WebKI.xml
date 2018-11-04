@@ -58,13 +58,16 @@
   <HelpKINode Title="CommandItemEnableState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="CommandItemInfoAttribute class">
     <HelpKINode Title="CommandItemInfoAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute.htm" />
   </HelpKINode>
-  <HelpKINode Title="CommandItemInfoAttribute.CommandItemInfoAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
+  <HelpKINode Title="CommandItemInfoAttribute.CommandItemInfoAttribute constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
+  <HelpKINode Title="CommandItemInfoAttribute.CommandTabBoxDisplayStyle property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_CommandTabBoxDisplayStyle.htm" />
   <HelpKINode Title="CommandItemInfoAttribute.HasMenu property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_HasMenu.htm" />
   <HelpKINode Title="CommandItemInfoAttribute.HasToolbar property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_HasToolbar.htm" />
+  <HelpKINode Title="CommandItemInfoAttribute.ShowInCommandTabBox property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_ShowInCommandTabBox.htm" />
   <HelpKINode Title="CommandItemInfoAttribute.SupportedWorkspaces property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_SupportedWorkspaces.htm" />
+  <HelpKINode Title="CommandTabBoxDisplayStyle property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_CommandTabBoxDisplayStyle.htm" />
   <HelpKINode Title="Description property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_Description.htm" />
   <HelpKINode Title="DeselectDisable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="DeselectEnable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
@@ -91,6 +94,9 @@
   <HelpKINode Title="ISwAddInEx.OnConnect method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnConnect.htm" />
   <HelpKINode Title="ISwAddInEx.OnDisconnect method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnDisconnect.htm" />
   <HelpKINode Title="LoadAtStartup property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_LoadAtStartup.htm" />
+  <HelpKINode Title="m_AddInCookie field" Url="html/F_CodeStack_SwEx_AddIn_SwAddInEx_m_AddInCookie.htm" />
+  <HelpKINode Title="m_App field" Url="html/F_CodeStack_SwEx_AddIn_SwAddInEx_m_App.htm" />
+  <HelpKINode Title="m_CmdMgr field" Url="html/F_CodeStack_SwEx_AddIn_SwAddInEx_m_CmdMgr.htm" />
   <HelpKINode Title="NoDocuments enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
   <HelpKINode Title="OnConnect method">
     <HelpKINode Title="ISwAddInEx.OnConnect Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnConnect.htm" />
@@ -103,28 +109,34 @@
   <HelpKINode Title="Part enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
   <HelpKINode Title="SelectDisable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="SelectEnable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="ShowInCommandTabBox property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_ShowInCommandTabBox.htm" />
   <HelpKINode Title="SupportedWorkspaces property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute_SupportedWorkspaces.htm" />
   <HelpKINode Title="SwAddInEx class">
     <HelpKINode Title="SwAddInEx Class" Url="html/T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
   </HelpKINode>
   <HelpKINode Title="SwAddInEx.AddCommandGroup(Of TCmdEnum) method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddCommandGroup__1.htm" />
   <HelpKINode Title="SwAddInEx.AddCommandGroup&lt;TCmdEnum&gt; method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddCommandGroup__1.htm" />
   <HelpKINode Title="SwAddInEx.AddContextMenu(Of TCmdEnum) method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddContextMenu__1.htm" />
   <HelpKINode Title="SwAddInEx.AddContextMenu&lt;TCmdEnum&gt; method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddContextMenu__1.htm" />
+  <HelpKINode Title="SwAddInEx.m_AddInCookie field" Url="html/F_CodeStack_SwEx_AddIn_SwAddInEx_m_AddInCookie.htm" />
+  <HelpKINode Title="SwAddInEx.m_App field" Url="html/F_CodeStack_SwEx_AddIn_SwAddInEx_m_App.htm" />
+  <HelpKINode Title="SwAddInEx.m_CmdMgr field" Url="html/F_CodeStack_SwEx_AddIn_SwAddInEx_m_CmdMgr.htm" />
   <HelpKINode Title="SwAddInEx.OnConnect method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_OnConnect.htm" />
   <HelpKINode Title="SwAddInEx.OnDisconnect method" Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_OnDisconnect.htm" />
   <HelpKINode Title="swWorkspaceTypes_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
   <HelpKINode Title="Title property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute_Title.htm" />
   <HelpKINode Title="TitleAttribute class">
     <HelpKINode Title="TitleAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TitleAttribute.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_TitleAttribute__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_TitleAttribute__ctor.htm" />
   </HelpKINode>
-  <HelpKINode Title="TitleAttribute.TitleAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_TitleAttribute__ctor.htm" />
+  <HelpKINode Title="TitleAttribute.TitleAttribute constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_TitleAttribute__ctor.htm" />
   <HelpKINode Title="UserId property" Url="html/P_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute_UserId.htm" />
   <HelpKINode Title="version">
-    <HelpKINode Title="1.0.0.0" Url="html/v0-1-0.htm" />
-    <HelpKINode Title="1.0.0.0" Url="html/v0-2-2.htm" />
+    <HelpKINode Title="0.1.0" Url="html/v0-1-0.htm" />
+    <HelpKINode Title="0.2.2" Url="html/v0-2-2.htm" />
+    <HelpKINode Title="0.3.0" Url="html/v0-3-0.htm" />
     <HelpKINode Title="history" Url="html/version-history.htm" />
   </HelpKINode>
   <HelpKINode Title="Welcome" Url="html/welcome.htm" />
