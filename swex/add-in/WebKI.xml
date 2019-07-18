@@ -39,6 +39,7 @@
   <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.CommandGroupInfoAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.CommandIconAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.CommandItemInfoAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.CommandSpacerAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.TaskPaneIconAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TaskPaneIconAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes.TaskPaneStandardButtonAttribute class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TaskPaneStandardButtonAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Base namespace" Url="html/N_CodeStack_SwEx_AddIn_Base.htm" />
@@ -63,9 +64,9 @@
   <HelpKINode Title="CodeStack.SwEx.AddIn.SwAddInEx class" Url="html/T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
   <HelpKINode Title="CommandGroupInfoAttribute class">
     <HelpKINode Title="CommandGroupInfoAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute.htm" />
-    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm" />
   </HelpKINode>
-  <HelpKINode Title="CommandGroupInfoAttribute.CommandGroupInfoAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm" />
+  <HelpKINode Title="CommandGroupInfoAttribute.CommandGroupInfoAttribute constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm" />
   <HelpKINode Title="CommandIconAttribute class">
     <HelpKINode Title="CommandIconAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute.htm" />
     <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute__ctor.htm" />
@@ -77,6 +78,11 @@
     <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="CommandItemInfoAttribute.CommandItemInfoAttribute constructor" Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
+  <HelpKINode Title="CommandSpacerAttribute class">
+    <HelpKINode Title="CommandSpacerAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommandSpacerAttribute.CommandSpacerAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute__ctor.htm" />
   <HelpKINode Title="CreateDocumentsHandler(Of TDocHandler) method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler__1.htm" />
   <HelpKINode Title="CreateDocumentsHandler&lt;TDocHandler&gt; method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler__1.htm" />
   <HelpKINode Title="CreateTaskPane method" Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateTaskPane.htm" />
