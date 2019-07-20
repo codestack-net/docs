@@ -2,89 +2,91 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome to the SwEx.MacroFeature" Url="html/4cd362b8-c3db-4b26-9bd7-2f9175eb4856.htm" />
-  <HelpTOCNode Id="446942e9-ec12-439c-a400-810e636f6115" Title="Version History" Url="html/9894d840-be02-403b-b4fd-1f75dbde2021.htm">
+  <HelpTOCNode Id="3491ab01-dfe9-4e34-a3f3-5ad6325cbe97" Title="Version History" Url="html/9894d840-be02-403b-b4fd-1f75dbde2021.htm">
     <HelpTOCNode Title="Version 0.1.0" Url="html/v0-1-0.htm" />
     <HelpTOCNode Title="Version 0.2.0" Url="html/v0-2-0.htm" />
     <HelpTOCNode Title="Version 0.3.0" Url="html/v0-3-0.htm" />
     <HelpTOCNode Title="Version 0.4.0" Url="html/v0-4-0.htm" />
     <HelpTOCNode Title="Version 0.4.1" Url="html/v0-4-1.htm" />
+    <HelpTOCNode Title="Version 0.4.2" Url="html/v0-4-2.htm" />
+    <HelpTOCNode Title="Version 0.4.3" Url="html/v0-4-3.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="0ac2b106-0601-4484-b180-8d535472382b" Title="CodeStack.SwEx.MacroFeature" Url="html/N_CodeStack_SwEx_MacroFeature.htm">
-    <HelpTOCNode Id="b41dab94-6054-4d71-83d0-5cd48193bab0" Title="MacroFeatureEx Class" Url="html/T_CodeStack_SwEx_MacroFeature_MacroFeatureEx.htm">
-      <HelpTOCNode Id="6296ce75-67cc-4b1f-b0d9-616fbfaf323d" Title="MacroFeatureEx Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx.htm">
+  <HelpTOCNode Id="9c6a3852-c1cf-4b9e-8481-b057bdd959bb" Title="CodeStack.SwEx.MacroFeature" Url="html/N_CodeStack_SwEx_MacroFeature.htm">
+    <HelpTOCNode Id="89dee9dd-82c0-4d82-b7e0-e47ba703bc34" Title="MacroFeatureEx Class" Url="html/T_CodeStack_SwEx_MacroFeature_MacroFeatureEx.htm">
+      <HelpTOCNode Id="12668e30-589b-43a5-8916-be70776acdf6" Title="MacroFeatureEx Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx.htm">
         <HelpTOCNode Title="Logger Property " Url="html/P_CodeStack_SwEx_MacroFeature_MacroFeatureEx_Logger.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="f21a9c09-0181-42a7-a28e-6a9b02e4bb58" Title="MacroFeatureEx Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx.htm">
+      <HelpTOCNode Id="88ab2529-ac67-443d-99e1-0e2f76483c45" Title="MacroFeatureEx Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx.htm">
         <HelpTOCNode Title="OnEditDefinition Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_OnEditDefinition.htm" />
         <HelpTOCNode Title="OnRebuild Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_OnRebuild.htm" />
         <HelpTOCNode Title="OnUpdateState Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_OnUpdateState.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="31b2fcec-48ff-47ea-b404-48f3680e47e3" Title="MacroFeatureEx(TParams) Class" Url="html/T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1.htm">
+    <HelpTOCNode Id="3f61a57c-a2c5-4535-a735-b14cb9c72e4a" Title="MacroFeatureEx(TParams) Class" Url="html/T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1.htm">
       <HelpTOCNode Title="MacroFeatureEx(TParams) Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1.htm" />
-      <HelpTOCNode Id="2521c00e-a15d-4368-a94a-2e939d48b2e2" Title="MacroFeatureEx(TParams) Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1.htm">
+      <HelpTOCNode Id="8e1f9b0f-9bdf-442b-870c-59b3f83d7017" Title="MacroFeatureEx(TParams) Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1.htm">
         <HelpTOCNode Title="GetParameters Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_GetParameters.htm" />
         <HelpTOCNode Title="OnRebuild Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnRebuild.htm" />
         <HelpTOCNode Title="OnSetDimensions Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnSetDimensions.htm" />
-        <HelpTOCNode Id="02f8a2d4-a28b-4007-81a4-951270f2ca09" Title="SetParameters Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_SetParameters.htm">
+        <HelpTOCNode Id="efac0e79-5597-4b4d-9997-1f8a50992fad" Title="SetParameters Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_SetParameters.htm">
           <HelpTOCNode Title="SetParameters Method (IModelDoc2, IFeature, IMacroFeatureData, TParams)" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_SetParameters.htm" />
           <HelpTOCNode Title="SetParameters Method (IModelDoc2, IFeature, IMacroFeatureData, TParams, MacroFeatureOutdateState_e)" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_SetParameters_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a9ac6da7-1968-4904-b2ad-fe02b79de0be" Title="MacroFeatureEx(TParams, THandler) Class" Url="html/T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2.htm">
+    <HelpTOCNode Id="2db9a75a-4150-43a6-adaa-d479a95f542f" Title="MacroFeatureEx(TParams, THandler) Class" Url="html/T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2.htm">
       <HelpTOCNode Title="MacroFeatureEx(TParams, THandler) Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2.htm" />
-      <HelpTOCNode Id="867af4e0-e956-47d2-991c-ce75b756459c" Title="MacroFeatureEx(TParams, THandler) Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2.htm">
+      <HelpTOCNode Id="f51b555a-2b02-4e51-a998-bb11cac7621d" Title="MacroFeatureEx(TParams, THandler) Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2.htm">
         <HelpTOCNode Title="OnEditDefinition Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2_OnEditDefinition.htm" />
         <HelpTOCNode Title="OnRebuild Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2_OnRebuild.htm" />
         <HelpTOCNode Title="OnUpdateState Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2_OnUpdateState.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="99d8dba3-fd38-4340-93d4-55cae5d14414" Title="CodeStack.SwEx.MacroFeature.Attributes" Url="html/N_CodeStack_SwEx_MacroFeature_Attributes.htm">
-    <HelpTOCNode Id="1214dce5-76e9-4e36-b796-bc624b927830" Title="FeatureIconAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_FeatureIconAttribute.htm">
-      <HelpTOCNode Id="8b340ce5-455d-4e53-9dce-6183a4ec2305" Title="FeatureIconAttribute Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_FeatureIconAttribute__ctor.htm">
+  <HelpTOCNode Id="6fa585f9-ba11-4130-9fc1-ea80aac2155c" Title="CodeStack.SwEx.MacroFeature.Attributes" Url="html/N_CodeStack_SwEx_MacroFeature_Attributes.htm">
+    <HelpTOCNode Id="79289b9f-627a-4659-9f59-300a43c043c2" Title="FeatureIconAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_FeatureIconAttribute.htm">
+      <HelpTOCNode Id="f8a55535-5dd0-486f-9548-54723af9ceb7" Title="FeatureIconAttribute Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_FeatureIconAttribute__ctor.htm">
         <HelpTOCNode Title="FeatureIconAttribute Constructor (Type, String, String)" Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_FeatureIconAttribute__ctor.htm" />
         <HelpTOCNode Title="FeatureIconAttribute Constructor (Type, String, String, String, String)" Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_FeatureIconAttribute__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0e2b27fd-4d83-434e-bbb3-26167d390eaf" Title="IconAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute.htm">
-      <HelpTOCNode Id="9b260251-4ab0-40f4-970f-22e37c409705" Title="IconAttribute Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute__ctor.htm">
+    <HelpTOCNode Id="9909d269-f1e6-47c4-be1d-9d038dce901f" Title="IconAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute.htm">
+      <HelpTOCNode Id="3abc8c9c-ed75-4101-a203-0f09210b5681" Title="IconAttribute Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute__ctor.htm">
         <HelpTOCNode Title="IconAttribute Constructor (Type, String, String)" Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute__ctor.htm" />
         <HelpTOCNode Title="IconAttribute Constructor (Type, String, String, String, String)" Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7f7ffb37-da8b-4a72-a57c-ad7cc97bab27" Title="OptionsAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_OptionsAttribute.htm">
-      <HelpTOCNode Id="d1a8f4c7-9ee4-43df-8b9c-e1b83fce2385" Title="OptionsAttribute Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_OptionsAttribute__ctor.htm">
+    <HelpTOCNode Id="b7971a4d-0652-4583-a175-d8f7be6ce2e2" Title="OptionsAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_OptionsAttribute.htm">
+      <HelpTOCNode Id="2b659dfc-a35f-46d2-9775-02ba9ff9401e" Title="OptionsAttribute Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_OptionsAttribute__ctor.htm">
         <HelpTOCNode Title="OptionsAttribute Constructor (String, swMacroFeatureOptions_e)" Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_OptionsAttribute__ctor.htm" />
         <HelpTOCNode Title="OptionsAttribute Constructor (String, String, swMacroFeatureOptions_e)" Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_OptionsAttribute__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="90a9fa19-684c-44e9-929f-2b4069be47dd" Title="ParameterDimensionAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParameterDimensionAttribute.htm">
+    <HelpTOCNode Id="36b4857c-9baa-423a-9bae-028786eea747" Title="ParameterDimensionAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParameterDimensionAttribute.htm">
       <HelpTOCNode Title="ParameterDimensionAttribute Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_ParameterDimensionAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6a28c54f-f5eb-4a70-a425-c328e9fc06ea" Title="ParameterEditBodyAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParameterEditBodyAttribute.htm">
+    <HelpTOCNode Id="d65b679f-b938-4905-92ac-5779b6693e15" Title="ParameterEditBodyAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParameterEditBodyAttribute.htm">
       <HelpTOCNode Title="ParameterEditBodyAttribute Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_ParameterEditBodyAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d3c1e3a3-4319-4f8d-83a6-5330fdee8c5a" Title="ParameterSelectionAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParameterSelectionAttribute.htm">
+    <HelpTOCNode Id="41b030b8-532d-4e88-835b-90b1fa6d887f" Title="ParameterSelectionAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParameterSelectionAttribute.htm">
       <HelpTOCNode Title="ParameterSelectionAttribute Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_ParameterSelectionAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="05fa2cc6-05da-4258-82dd-9e425580456b" Title="ParametersVersionAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParametersVersionAttribute.htm">
-      <HelpTOCNode Id="79b56240-5ca6-4666-9d88-0d3393eb97c0" Title="ParametersVersionAttribute Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_ParametersVersionAttribute__ctor.htm">
+    <HelpTOCNode Id="30c84313-2503-40c9-a049-318617b2be11" Title="ParametersVersionAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParametersVersionAttribute.htm">
+      <HelpTOCNode Id="85f1cbce-e113-4502-870f-b144022e8b1e" Title="ParametersVersionAttribute Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_ParametersVersionAttribute__ctor.htm">
         <HelpTOCNode Title="ParametersVersionAttribute Constructor (String, Type)" Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_ParametersVersionAttribute__ctor_1.htm" />
         <HelpTOCNode Title="ParametersVersionAttribute Constructor (Int32, Int32, Type)" Url="html/M_CodeStack_SwEx_MacroFeature_Attributes_ParametersVersionAttribute__ctor.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="31c175f0-af08-46c3-bf64-3b669eaf98b2" Title="CodeStack.SwEx.MacroFeature.Base" Url="html/N_CodeStack_SwEx_MacroFeature_Base.htm">
-    <HelpTOCNode Id="22664277-512d-4a65-82ab-87fb453c50eb" Title="IMacroFeatureHandler Interface" Url="html/T_CodeStack_SwEx_MacroFeature_Base_IMacroFeatureHandler.htm">
-      <HelpTOCNode Id="b407968d-e487-4a6c-8b0f-855468326fa2" Title="IMacroFeatureHandler Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_IMacroFeatureHandler.htm">
+  <HelpTOCNode Id="094b5c13-c11f-4ce9-81f4-afab94ffad7d" Title="CodeStack.SwEx.MacroFeature.Base" Url="html/N_CodeStack_SwEx_MacroFeature_Base.htm">
+    <HelpTOCNode Id="a90f62a3-d17e-4f13-bdc9-9d73578e2bf1" Title="IMacroFeatureHandler Interface" Url="html/T_CodeStack_SwEx_MacroFeature_Base_IMacroFeatureHandler.htm">
+      <HelpTOCNode Id="e668bde4-b867-4351-b57d-9550a4e23ec2" Title="IMacroFeatureHandler Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_IMacroFeatureHandler.htm">
         <HelpTOCNode Title="Init Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_IMacroFeatureHandler_Init.htm" />
         <HelpTOCNode Title="Unload Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_IMacroFeatureHandler_Unload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a7279aed-9c89-474f-ae0f-a99f6dba21c1" Title="IParameterConverter Interface" Url="html/T_CodeStack_SwEx_MacroFeature_Base_IParameterConverter.htm">
-      <HelpTOCNode Id="7dc14e83-043f-4aee-8a52-26ada32d460f" Title="IParameterConverter Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_IParameterConverter.htm">
+    <HelpTOCNode Id="9f2dc969-c5f8-4c83-9905-cc477e4dfa96" Title="IParameterConverter Interface" Url="html/T_CodeStack_SwEx_MacroFeature_Base_IParameterConverter.htm">
+      <HelpTOCNode Id="281a58de-6db9-45cc-aac0-ee7d3fe50bb9" Title="IParameterConverter Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_IParameterConverter.htm">
         <HelpTOCNode Title="ConvertDisplayDimensions Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_IParameterConverter_ConvertDisplayDimensions.htm" />
         <HelpTOCNode Title="ConvertEditBodies Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_IParameterConverter_ConvertEditBodies.htm" />
         <HelpTOCNode Title="ConvertParameters Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_IParameterConverter_ConvertParameters.htm" />
@@ -93,91 +95,91 @@
     </HelpTOCNode>
     <HelpTOCNode Title="IParametersVersionConverter Interface" Url="html/T_CodeStack_SwEx_MacroFeature_Base_IParametersVersionConverter.htm" />
     <HelpTOCNode Title="MacroFeatureOutdateState_e Enumeration" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureOutdateState_e.htm" />
-    <HelpTOCNode Id="e6408174-262d-4bc4-bc9a-e05028caafcf" Title="MacroFeatureRebuildBodyResult Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult.htm">
-      <HelpTOCNode Id="ece0d106-7818-40ff-9c9c-73d6614cdf55" Title="MacroFeatureRebuildBodyResult Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult__ctor.htm">
+    <HelpTOCNode Id="91bba3ba-0d2d-4956-ac35-92c4be469314" Title="MacroFeatureRebuildBodyResult Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult.htm">
+      <HelpTOCNode Id="13d362c0-0e69-44b8-81aa-e4f8a29cee98" Title="MacroFeatureRebuildBodyResult Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult__ctor.htm">
         <HelpTOCNode Title="MacroFeatureRebuildBodyResult Constructor (IBody2[])" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult__ctor.htm" />
         <HelpTOCNode Title="MacroFeatureRebuildBodyResult Constructor (IMacroFeatureData, Boolean, IBody2[])" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="52b17e59-8cb2-460f-b797-c88928d4579a" Title="MacroFeatureRebuildResult Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult.htm">
+    <HelpTOCNode Id="0ad2c4d4-1db1-4e5f-abe0-6b0df11be889" Title="MacroFeatureRebuildResult Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult.htm">
       <HelpTOCNode Title="MacroFeatureRebuildResult Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult__ctor.htm" />
-      <HelpTOCNode Id="fea5f6c0-fca0-4036-8c47-331a79c30bbd" Title="MacroFeatureRebuildResult Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult.htm">
+      <HelpTOCNode Id="1b47c172-93de-43b5-a1da-9c6f0665dfc2" Title="MacroFeatureRebuildResult Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult.htm">
         <HelpTOCNode Title="FromBodies Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBodies.htm" />
-        <HelpTOCNode Id="c68b0cbb-6bd3-4baa-a25c-0422745f23a1" Title="FromBody Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBody.htm">
+        <HelpTOCNode Id="2f798ebd-1cfd-42d2-875d-947088911958" Title="FromBody Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBody.htm">
           <HelpTOCNode Title="FromBody Method (IBody2)" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBody.htm" />
           <HelpTOCNode Title="FromBody Method (IBody2, IMacroFeatureData, Boolean)" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBody_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="FromStatus Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromStatus.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1973c669-1fa3-4452-a489-268b704484fc" Title="MacroFeatureRebuldStatusResult Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuldStatusResult.htm">
+    <HelpTOCNode Id="f55ba2f1-3aad-4d07-9768-c33c512661a9" Title="MacroFeatureRebuldStatusResult Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuldStatusResult.htm">
       <HelpTOCNode Title="MacroFeatureRebuldStatusResult Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuldStatusResult__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="943e72c7-04c2-420a-81df-6048a4d33bad" Title="ParameterConverter Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_ParameterConverter.htm">
+    <HelpTOCNode Id="db8ac033-a218-451a-83c2-9dd9154e1226" Title="ParameterConverter Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_ParameterConverter.htm">
       <HelpTOCNode Title="ParameterConverter Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Base_ParameterConverter__ctor.htm" />
-      <HelpTOCNode Id="42134fe7-706b-4653-b7f0-41d73d20a445" Title="ParameterConverter Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_ParameterConverter.htm">
+      <HelpTOCNode Id="7957b0e5-9287-40d6-885b-00c1c7875774" Title="ParameterConverter Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_ParameterConverter.htm">
         <HelpTOCNode Title="ConvertDisplayDimensions Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_ParameterConverter_ConvertDisplayDimensions.htm" />
         <HelpTOCNode Title="ConvertEditBodies Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_ParameterConverter_ConvertEditBodies.htm" />
         <HelpTOCNode Title="ConvertParameters Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_ParameterConverter_ConvertParameters.htm" />
         <HelpTOCNode Title="ConvertSelections Method " Url="html/M_CodeStack_SwEx_MacroFeature_Base_ParameterConverter_ConvertSelections.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ad2f847f-32a0-47a2-8a84-6734dc308bed" Title="ParametersVersionConverter Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_ParametersVersionConverter.htm">
-      <HelpTOCNode Id="25ceeb5f-7632-49bf-bcaa-d28af53f9675" Title="ParametersVersionConverter Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_ParametersVersionConverter__ctor.htm">
+    <HelpTOCNode Id="f12c891e-a15f-433a-90fb-faa256e20505" Title="ParametersVersionConverter Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_ParametersVersionConverter.htm">
+      <HelpTOCNode Id="7aebaf9b-075d-48ed-89fa-11c028cebfea" Title="ParametersVersionConverter Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_ParametersVersionConverter__ctor.htm">
         <HelpTOCNode Title="ParametersVersionConverter Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Base_ParametersVersionConverter__ctor.htm" />
         <HelpTOCNode Title="ParametersVersionConverter Constructor (IDictionary(Version, IParameterConverter))" Url="html/M_CodeStack_SwEx_MacroFeature_Base_ParametersVersionConverter__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="601f2395-18eb-43ce-a2b3-b26078c69117" Title="CodeStack.SwEx.MacroFeature.Core" Url="html/N_CodeStack_SwEx_MacroFeature_Core.htm">
-    <HelpTOCNode Id="bc1ad54f-7d67-4769-95a0-397bb1ca4270" Title="ObsoleteMacroFeatureEx Class" Url="html/T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx.htm">
+  <HelpTOCNode Id="a0005d76-7239-4b38-870a-7f330562b25a" Title="CodeStack.SwEx.MacroFeature.Core" Url="html/N_CodeStack_SwEx_MacroFeature_Core.htm">
+    <HelpTOCNode Id="90e92853-acf8-491b-8eac-c62bb544e756" Title="ObsoleteMacroFeatureEx Class" Url="html/T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx.htm">
       <HelpTOCNode Title="ObsoleteMacroFeatureEx Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx__ctor.htm" />
-      <HelpTOCNode Id="76dbd2fd-ba27-4224-a463-994071235b73" Title="ObsoleteMacroFeatureEx Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx.htm">
+      <HelpTOCNode Id="a4343b87-5fe3-497d-847f-9ed82c213dfa" Title="ObsoleteMacroFeatureEx Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx.htm">
         <HelpTOCNode Title="ObsoleteFeatureRebuildError Property " Url="html/P_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_ObsoleteFeatureRebuildError.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ObsoleteMacroFeatureEx Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6d997892-dbc8-4387-b8f6-e6342e3b08a2" Title="ObsoleteMacroFeatureEx(TReplacementMacroFeature) Class" Url="html/T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_1.htm">
+    <HelpTOCNode Id="69b1ccf6-faf7-4c59-8883-461e532fefc9" Title="ObsoleteMacroFeatureEx(TReplacementMacroFeature) Class" Url="html/T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_1.htm">
       <HelpTOCNode Title="ObsoleteMacroFeatureEx(TReplacementMacroFeature) Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_1__ctor.htm" />
-      <HelpTOCNode Id="48ded662-deb1-4173-99d6-3c526991bccc" Title="ObsoleteMacroFeatureEx(TReplacementMacroFeature) Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_1.htm">
+      <HelpTOCNode Id="8916396b-5c75-4415-b658-02837d1789ef" Title="ObsoleteMacroFeatureEx(TReplacementMacroFeature) Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_1.htm">
         <HelpTOCNode Title="ObsoleteFeatureRebuildError Property " Url="html/P_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_1_ObsoleteFeatureRebuildError.htm" />
         <HelpTOCNode Title="ReplaceFeatureMessage Property " Url="html/P_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_1_ReplaceFeatureMessage.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ObsoleteMacroFeatureEx(TReplacementMacroFeature) Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Core_ObsoleteMacroFeatureEx_1.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="57cd5abb-3436-4291-b65a-ba527e01b1de" Title="CodeStack.SwEx.MacroFeature.Data" Url="html/N_CodeStack_SwEx_MacroFeature_Data.htm">
-    <HelpTOCNode Id="6318fa0b-aed0-4145-bc4b-cd483b6f46c8" Title="DimensionData Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_DimensionData.htm">
-      <HelpTOCNode Id="313487d8-f1f3-4ef9-86c9-46909c221793" Title="DimensionData Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Data_DimensionData.htm">
+  <HelpTOCNode Id="544079f2-695a-4b01-8cc3-f2cc7edf368b" Title="CodeStack.SwEx.MacroFeature.Data" Url="html/N_CodeStack_SwEx_MacroFeature_Data.htm">
+    <HelpTOCNode Id="ed4c5f72-500c-46f8-ac4d-54633ed57791" Title="DimensionData Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_DimensionData.htm">
+      <HelpTOCNode Id="0c97ae67-552f-4787-8bd2-3e7caa4862fa" Title="DimensionData Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Data_DimensionData.htm">
         <HelpTOCNode Title="Dimension Property " Url="html/P_CodeStack_SwEx_MacroFeature_Data_DimensionData_Dimension.htm" />
         <HelpTOCNode Title="DisplayDimension Property " Url="html/P_CodeStack_SwEx_MacroFeature_Data_DimensionData_DisplayDimension.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="fe9c64c7-8421-47fb-944a-cfd0ece2f0e6" Title="DimensionData Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_DimensionData.htm">
+      <HelpTOCNode Id="08c3b31d-c243-4060-9d7d-e5872266a5a4" Title="DimensionData Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_DimensionData.htm">
         <HelpTOCNode Title="Dispose Method " Url="html/M_CodeStack_SwEx_MacroFeature_Data_DimensionData_Dispose.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="3d33cb94-02c0-4806-b857-b2181c60b72e" Title="DimensionDataCollection Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_DimensionDataCollection.htm">
-      <HelpTOCNode Id="542fab4a-e396-4e84-b1e3-bd826ef976ab" Title="DimensionDataCollection Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_DimensionDataCollection.htm">
+    <HelpTOCNode Id="8cf50f7b-c01f-438d-9c46-d44d3750f452" Title="DimensionDataCollection Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_DimensionDataCollection.htm">
+      <HelpTOCNode Id="478d224e-73ad-4ca8-bfd2-9aca93f6b89a" Title="DimensionDataCollection Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_DimensionDataCollection.htm">
         <HelpTOCNode Title="Dispose Method " Url="html/M_CodeStack_SwEx_MacroFeature_Data_DimensionDataCollection_Dispose.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5f012e23-04c0-4924-ab34-c439db4dea68" Title="DimensionDataExtension Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_DimensionDataExtension.htm">
-      <HelpTOCNode Id="f2fa08e9-2c0d-4c35-8ced-b7559c2e7d83" Title="DimensionDataExtension Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_DimensionDataExtension.htm">
+    <HelpTOCNode Id="ac9d44d6-9ce0-4485-9c7c-6efb68c2a5b3" Title="DimensionDataExtension Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_DimensionDataExtension.htm">
+      <HelpTOCNode Id="8d85a4b3-c278-4a23-b6e0-f91d5c25ad6e" Title="DimensionDataExtension Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_DimensionDataExtension.htm">
         <HelpTOCNode Title="SetOrientation Method " Url="html/M_CodeStack_SwEx_MacroFeature_Data_DimensionDataExtension_SetOrientation.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d878fa53-c7be-42ba-a5f5-b0ce78cc22fa" Title="Point Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_Point.htm">
-      <HelpTOCNode Id="40ce7361-6d77-45c5-99ea-a20de7e72b8e" Title="Point Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Point__ctor.htm">
+    <HelpTOCNode Id="478cf2d6-cb01-4983-a0f2-5a3cd5454e58" Title="Point Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_Point.htm">
+      <HelpTOCNode Id="3d44aaef-1de9-48a7-bcc7-4874680aef1c" Title="Point Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Point__ctor.htm">
         <HelpTOCNode Title="Point Constructor (Double[])" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point__ctor_1.htm" />
         <HelpTOCNode Title="Point Constructor (Double, Double, Double)" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point__ctor.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4e0fa353-5a46-4511-8ae9-22bd77ea17d2" Title="Point Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Data_Point.htm">
+      <HelpTOCNode Id="06b64fe9-8508-4ae6-b2a3-ac28302b3967" Title="Point Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Data_Point.htm">
         <HelpTOCNode Title="X Property " Url="html/P_CodeStack_SwEx_MacroFeature_Data_Point_X.htm" />
         <HelpTOCNode Title="Y Property " Url="html/P_CodeStack_SwEx_MacroFeature_Data_Point_Y.htm" />
         <HelpTOCNode Title="Z Property " Url="html/P_CodeStack_SwEx_MacroFeature_Data_Point_Z.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7407da8f-cfe0-4acb-b702-0d73e3518695" Title="Point Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_Point.htm">
-        <HelpTOCNode Id="8980fecc-fec2-4333-af6b-11436b8828b0" Title="IsSame Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Point_IsSame.htm">
+      <HelpTOCNode Id="123327b6-7bb2-443f-bb3c-af258d8f2672" Title="Point Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_Point.htm">
+        <HelpTOCNode Id="34b1809f-47c5-47fb-9e16-6330328df74c" Title="IsSame Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Point_IsSame.htm">
           <HelpTOCNode Title="IsSame Method (Point)" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point_IsSame.htm" />
           <HelpTOCNode Title="IsSame Method (Double, Double, Double)" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point_IsSame_1.htm" />
         </HelpTOCNode>
@@ -186,58 +188,58 @@
         <HelpTOCNode Title="ToArray Method " Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point_ToArray.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b3826ad6-e89c-426b-98fd-d9f3935852de" Title="Point Operators" Url="html/Operators_T_CodeStack_SwEx_MacroFeature_Data_Point.htm">
+      <HelpTOCNode Id="380f4862-c4d7-467b-a91b-e5feab24d38f" Title="Point Operators" Url="html/Operators_T_CodeStack_SwEx_MacroFeature_Data_Point.htm">
         <HelpTOCNode Title="Addition Operator " Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point_op_Addition.htm" />
         <HelpTOCNode Title="Subtraction Operator " Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point_op_Subtraction.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e36c8c56-04dd-473a-a6c2-770063f5bb5a" Title="Vector Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_Vector.htm">
-      <HelpTOCNode Id="f0c4752a-7e0e-484d-841b-3e9f1b21ebbd" Title="Vector Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Vector__ctor.htm">
+    <HelpTOCNode Id="988138d7-4975-435d-9fd9-96a2d0ddd07c" Title="Vector Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_Vector.htm">
+      <HelpTOCNode Id="83e5595e-5110-41ba-970e-0b3ccc9e4b37" Title="Vector Constructor " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Vector__ctor.htm">
         <HelpTOCNode Title="Vector Constructor (Double[])" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector__ctor_2.htm" />
         <HelpTOCNode Title="Vector Constructor (Vector)" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector__ctor.htm" />
         <HelpTOCNode Title="Vector Constructor (Double, Double, Double)" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Vector Properties" Url="html/Properties_T_CodeStack_SwEx_MacroFeature_Data_Vector.htm" />
-      <HelpTOCNode Id="95357ffa-4e3f-4bba-a45f-164eb6a44db3" Title="Vector Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_Vector.htm">
+      <HelpTOCNode Id="70a9f1fc-d342-45d7-a2bc-d14097041f25" Title="Vector Methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Data_Vector.htm">
         <HelpTOCNode Title="Cross Method " Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector_Cross.htm" />
         <HelpTOCNode Title="GetLength Method " Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector_GetLength.htm" />
-        <HelpTOCNode Id="a188df2e-886b-4bea-b439-1f85e9f70ce9" Title="IsSame Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Vector_IsSame.htm">
+        <HelpTOCNode Id="48767682-07ed-4bff-895f-2020bd075e2b" Title="IsSame Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Vector_IsSame.htm">
           <HelpTOCNode Title="IsSame Method (Vector, Boolean)" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector_IsSame.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Normalize Method " Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector_Normalize.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="11cca8cf-1daf-4ecf-b30e-d38813e5d45e" Title="CodeStack.SwEx.MacroFeature.Exceptions" Url="html/N_CodeStack_SwEx_MacroFeature_Exceptions.htm">
+  <HelpTOCNode Id="077db3a3-30c0-40b0-ae06-eb59c1097def" Title="CodeStack.SwEx.MacroFeature.Exceptions" Url="html/N_CodeStack_SwEx_MacroFeature_Exceptions.htm">
     <HelpTOCNode Title="FutureVersionParametersException Class" Url="html/T_CodeStack_SwEx_MacroFeature_Exceptions_FutureVersionParametersException.htm" />
     <HelpTOCNode Title="ParametersMismatchException Class" Url="html/T_CodeStack_SwEx_MacroFeature_Exceptions_ParametersMismatchException.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="9269d508-8c1a-413b-938f-f45c8585f9eb" Title="CodeStack.SwEx.MacroFeature.Placeholders" Url="html/N_CodeStack_SwEx_MacroFeature_Placeholders.htm">
+  <HelpTOCNode Id="81fc1091-d854-45b4-8c20-2d0141c95174" Title="CodeStack.SwEx.MacroFeature.Placeholders" Url="html/N_CodeStack_SwEx_MacroFeature_Placeholders.htm">
     <HelpTOCNode Title="DimensionPlaceholder Class" Url="html/T_CodeStack_SwEx_MacroFeature_Placeholders_DimensionPlaceholder.htm" />
-    <HelpTOCNode Id="cc4d32f8-fdf8-402e-b73d-634b19645c55" Title="DisplayDimensionPlaceholder Class" Url="html/T_CodeStack_SwEx_MacroFeature_Placeholders_DisplayDimensionPlaceholder.htm">
+    <HelpTOCNode Id="75858467-29a8-4a11-8263-808b5809506d" Title="DisplayDimensionPlaceholder Class" Url="html/T_CodeStack_SwEx_MacroFeature_Placeholders_DisplayDimensionPlaceholder.htm">
       <HelpTOCNode Title="DisplayDimensionPlaceholder Constructor " Url="html/M_CodeStack_SwEx_MacroFeature_Placeholders_DisplayDimensionPlaceholder__ctor.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="20c7c6ad-88fa-42b6-9edb-0d7341cdceb8" Title="SolidWorks.Interop.sldworks" Url="html/N_SolidWorks_Interop_sldworks.htm">
-    <HelpTOCNode Id="833088c2-4dda-4561-a20e-43d8187a03e7" Title="DimensionEx Class" Url="html/T_SolidWorks_Interop_sldworks_DimensionEx.htm">
-      <HelpTOCNode Id="ef6c756c-1ff6-4a11-ad6f-786fc0ff0003" Title="DimensionEx Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_DimensionEx.htm">
+  <HelpTOCNode Id="64486b40-15c8-4299-af9b-9098752c7040" Title="SolidWorks.Interop.sldworks" Url="html/N_SolidWorks_Interop_sldworks.htm">
+    <HelpTOCNode Id="7f611e2c-6e7a-44ca-9aa7-546d42076c66" Title="DimensionEx Class" Url="html/T_SolidWorks_Interop_sldworks_DimensionEx.htm">
+      <HelpTOCNode Id="f7093612-56c2-4515-b97e-4afacd687852" Title="DimensionEx Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_DimensionEx.htm">
         <HelpTOCNode Title="SetDirection Method " Url="html/M_SolidWorks_Interop_sldworks_DimensionEx_SetDirection.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c0027b14-41c9-41c0-9abb-c2a8f8652db7" Title="FeatureManagerEx Class" Url="html/T_SolidWorks_Interop_sldworks_FeatureManagerEx.htm">
-      <HelpTOCNode Id="89625daf-7334-47be-b06c-5c6b7db32e1b" Title="FeatureManagerEx Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_FeatureManagerEx.htm">
-        <HelpTOCNode Id="6635f3fa-ac5c-4c8f-adb9-b7e30612cce6" Title="InsertComFeature Method " Url="html/Overload_SolidWorks_Interop_sldworks_FeatureManagerEx_InsertComFeature.htm">
+    <HelpTOCNode Id="c07145f9-b456-401a-836a-742e614f29da" Title="FeatureManagerEx Class" Url="html/T_SolidWorks_Interop_sldworks_FeatureManagerEx.htm">
+      <HelpTOCNode Id="34e174aa-996c-4ffa-936e-a7646f84ded4" Title="FeatureManagerEx Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_FeatureManagerEx.htm">
+        <HelpTOCNode Id="d66799c4-c5bb-46c1-8430-8e747ee92e61" Title="InsertComFeature Method " Url="html/Overload_SolidWorks_Interop_sldworks_FeatureManagerEx_InsertComFeature.htm">
           <HelpTOCNode Title="InsertComFeature(TMacroFeature) Method (IFeatureManager)" Url="html/M_SolidWorks_Interop_sldworks_FeatureManagerEx_InsertComFeature__1.htm" />
           <HelpTOCNode Title="InsertComFeature(TMacroFeature, TParams) Method (IFeatureManager, TParams)" Url="html/M_SolidWorks_Interop_sldworks_FeatureManagerEx_InsertComFeature__2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ad9c5e9d-d832-48f4-991b-165b64fb2bf0" Title="ReplaceComFeature Method " Url="html/Overload_SolidWorks_Interop_sldworks_FeatureManagerEx_ReplaceComFeature.htm">
+        <HelpTOCNode Id="ca6ad986-7eb4-49b7-98be-8ff33fb41bae" Title="ReplaceComFeature Method " Url="html/Overload_SolidWorks_Interop_sldworks_FeatureManagerEx_ReplaceComFeature.htm">
           <HelpTOCNode Title="ReplaceComFeature(TMacroFeature) Method (IFeatureManager, IFeature)" Url="html/M_SolidWorks_Interop_sldworks_FeatureManagerEx_ReplaceComFeature__1.htm" />
           <HelpTOCNode Title="ReplaceComFeature(TMacroFeature, TParams) Method (IFeatureManager, IFeature, TParams)" Url="html/M_SolidWorks_Interop_sldworks_FeatureManagerEx_ReplaceComFeature__2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="49e470c1-da52-4be9-b6f9-6a03b540a648" Title="ModelerEx Class" Url="html/T_SolidWorks_Interop_sldworks_ModelerEx.htm">
-      <HelpTOCNode Id="fc510ff0-4267-4a16-bf0f-845e81ce82dd" Title="ModelerEx Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_ModelerEx.htm">
+    <HelpTOCNode Id="60125c7c-3e7f-41fd-b57b-cc9ae301304e" Title="ModelerEx Class" Url="html/T_SolidWorks_Interop_sldworks_ModelerEx.htm">
+      <HelpTOCNode Id="6e7c55c8-846a-48e1-82d5-a4530018eb66" Title="ModelerEx Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_ModelerEx.htm">
         <HelpTOCNode Title="CreateBox Method " Url="html/M_SolidWorks_Interop_sldworks_ModelerEx_CreateBox.htm" />
         <HelpTOCNode Title="CreateCylinder Method " Url="html/M_SolidWorks_Interop_sldworks_ModelerEx_CreateCylinder.htm" />
       </HelpTOCNode>
