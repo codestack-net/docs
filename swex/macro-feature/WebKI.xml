@@ -4,7 +4,6 @@
   <HelpKINode Title="CodeStack.SwEx.MacroFeature namespace" Url="html/N_CodeStack_SwEx_MacroFeature.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Attributes namespace" Url="html/N_CodeStack_SwEx_MacroFeature_Attributes.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Attributes.FeatureIconAttribute class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_FeatureIconAttribute.htm" />
-  <HelpKINode Title="CodeStack.SwEx.MacroFeature.Attributes.IconAttribute class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Attributes.OptionsAttribute class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_OptionsAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Attributes.ParameterDimensionAttribute class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParameterDimensionAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Attributes.ParameterEditBodyAttribute class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_ParameterEditBodyAttribute.htm" />
@@ -18,6 +17,7 @@
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Base.MacroFeatureRebuildBodyResult class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Base.MacroFeatureRebuildResult class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Base.MacroFeatureRebuldStatusResult class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuldStatusResult.htm" />
+  <HelpKINode Title="CodeStack.SwEx.MacroFeature.Base.MacroFeatureUnloadReason_e enumeration" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureUnloadReason_e.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Base.ParameterConverter class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_ParameterConverter.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Base.ParametersVersionConverter class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_ParametersVersionConverter.htm" />
   <HelpKINode Title="CodeStack.SwEx.MacroFeature.Core namespace" Url="html/N_CodeStack_SwEx_MacroFeature_Core.htm" />
@@ -60,6 +60,7 @@
   <HelpKINode Title="CreateBox method" Url="html/M_SolidWorks_Interop_sldworks_ModelerEx_CreateBox.htm" />
   <HelpKINode Title="CreateCylinder method" Url="html/M_SolidWorks_Interop_sldworks_ModelerEx_CreateCylinder.htm" />
   <HelpKINode Title="Cross method" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector_Cross.htm" />
+  <HelpKINode Title="Deleted enumeration member" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureUnloadReason_e.htm" />
   <HelpKINode Title="Dimension property" Url="html/P_CodeStack_SwEx_MacroFeature_Data_DimensionData_Dimension.htm" />
   <HelpKINode Title="DimensionData class">
     <HelpKINode Title="DimensionData Class" Url="html/T_CodeStack_SwEx_MacroFeature_Data_DimensionData.htm" />
@@ -108,16 +109,11 @@
   <HelpKINode Title="FeatureManagerEx.InsertComFeature method" Url="html/Overload_SolidWorks_Interop_sldworks_FeatureManagerEx_InsertComFeature.htm" />
   <HelpKINode Title="FeatureManagerEx.ReplaceComFeature method" Url="html/Overload_SolidWorks_Interop_sldworks_FeatureManagerEx_ReplaceComFeature.htm" />
   <HelpKINode Title="FromBodies method" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBodies.htm" />
-  <HelpKINode Title="FromBody method" Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBody.htm" />
+  <HelpKINode Title="FromBody method" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBody.htm" />
   <HelpKINode Title="FromStatus method" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromStatus.htm" />
   <HelpKINode Title="FutureVersionParametersException class" Url="html/T_CodeStack_SwEx_MacroFeature_Exceptions_FutureVersionParametersException.htm" />
   <HelpKINode Title="GetLength method" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector_GetLength.htm" />
   <HelpKINode Title="GetParameters method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_GetParameters.htm" />
-  <HelpKINode Title="IconAttribute class">
-    <HelpKINode Title="IconAttribute Class" Url="html/T_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute__ctor.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IconAttribute.IconAttribute constructor" Url="html/Overload_CodeStack_SwEx_MacroFeature_Attributes_IconAttribute__ctor.htm" />
   <HelpKINode Title="Icons enumeration member" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureOutdateState_e.htm" />
   <HelpKINode Title="IMacroFeatureHandler interface">
     <HelpKINode Title="IMacroFeatureHandler Interface" Url="html/T_CodeStack_SwEx_MacroFeature_Base_IMacroFeatureHandler.htm" />
@@ -153,7 +149,7 @@
   </HelpKINode>
   <HelpKINode Title="MacroFeatureEx(Of TParams).GetParameters method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_GetParameters.htm" />
   <HelpKINode Title="MacroFeatureEx(Of TParams).OnRebuild method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnRebuild.htm" />
-  <HelpKINode Title="MacroFeatureEx(Of TParams).OnSetDimensions method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnSetDimensions.htm" />
+  <HelpKINode Title="MacroFeatureEx(Of TParams).OnSetDimensions method" Url="html/Overload_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnSetDimensions.htm" />
   <HelpKINode Title="MacroFeatureEx(Of TParams).SetParameters method" Url="html/Overload_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_SetParameters.htm" />
   <HelpKINode Title="MacroFeatureEx(Of TParams, THandler) class">
     <HelpKINode Title="MacroFeatureEx(TParams, THandler) Class" Url="html/T_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2.htm" />
@@ -182,21 +178,21 @@
   </HelpKINode>
   <HelpKINode Title="MacroFeatureEx&lt;TParams&gt;.GetParameters method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_GetParameters.htm" />
   <HelpKINode Title="MacroFeatureEx&lt;TParams&gt;.OnRebuild method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnRebuild.htm" />
-  <HelpKINode Title="MacroFeatureEx&lt;TParams&gt;.OnSetDimensions method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnSetDimensions.htm" />
+  <HelpKINode Title="MacroFeatureEx&lt;TParams&gt;.OnSetDimensions method" Url="html/Overload_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnSetDimensions.htm" />
   <HelpKINode Title="MacroFeatureEx&lt;TParams&gt;.SetParameters method" Url="html/Overload_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_SetParameters.htm" />
   <HelpKINode Title="MacroFeatureOutdateState_e enumeration" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureOutdateState_e.htm" />
   <HelpKINode Title="MacroFeatureRebuildBodyResult class">
     <HelpKINode Title="MacroFeatureRebuildBodyResult Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult__ctor.htm" />
   </HelpKINode>
-  <HelpKINode Title="MacroFeatureRebuildBodyResult.MacroFeatureRebuildBodyResult constructor" Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult__ctor.htm" />
+  <HelpKINode Title="MacroFeatureRebuildBodyResult.MacroFeatureRebuildBodyResult constructor" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildBodyResult__ctor.htm" />
   <HelpKINode Title="MacroFeatureRebuildResult class">
     <HelpKINode Title="MacroFeatureRebuildResult Class" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult.htm" />
     <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult.htm" />
   </HelpKINode>
   <HelpKINode Title="MacroFeatureRebuildResult.FromBodies method" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBodies.htm" />
-  <HelpKINode Title="MacroFeatureRebuildResult.FromBody method" Url="html/Overload_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBody.htm" />
+  <HelpKINode Title="MacroFeatureRebuildResult.FromBody method" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromBody.htm" />
   <HelpKINode Title="MacroFeatureRebuildResult.FromStatus method" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult_FromStatus.htm" />
   <HelpKINode Title="MacroFeatureRebuildResult.MacroFeatureRebuildResult constructor" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuildResult__ctor.htm" />
   <HelpKINode Title="MacroFeatureRebuldStatusResult class">
@@ -204,6 +200,8 @@
     <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuldStatusResult__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="MacroFeatureRebuldStatusResult.MacroFeatureRebuldStatusResult constructor" Url="html/M_CodeStack_SwEx_MacroFeature_Base_MacroFeatureRebuldStatusResult__ctor.htm" />
+  <HelpKINode Title="MacroFeatureUnloadReason_e enumeration" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureUnloadReason_e.htm" />
+  <HelpKINode Title="ModelClosed enumeration member" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureUnloadReason_e.htm" />
   <HelpKINode Title="ModelerEx class">
     <HelpKINode Title="ModelerEx Class" Url="html/T_SolidWorks_Interop_sldworks_ModelerEx.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_ModelerEx.htm" />
@@ -251,7 +249,7 @@
     <HelpKINode Title="MacroFeatureEx(TParams, THandler).OnRebuild Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2_OnRebuild.htm" />
     <HelpKINode Title="MacroFeatureEx.OnRebuild Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_OnRebuild.htm" />
   </HelpKINode>
-  <HelpKINode Title="OnSetDimensions method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnSetDimensions.htm" />
+  <HelpKINode Title="OnSetDimensions method" Url="html/Overload_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_OnSetDimensions.htm" />
   <HelpKINode Title="OnUpdateState method">
     <HelpKINode Title="MacroFeatureEx(TParams, THandler).OnUpdateState Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_2_OnUpdateState.htm" />
     <HelpKINode Title="MacroFeatureEx.OnUpdateState Method " Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_OnUpdateState.htm" />
@@ -343,9 +341,9 @@
   <HelpKINode Title="Vector.Vector constructor" Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Vector__ctor.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/v0-1-0.htm" />
-    <HelpKINode Title="history" Url="html/9894d840-be02-403b-b4fd-1f75dbde2021.htm" />
+    <HelpKINode Title="history" Url="html/version-history.htm" />
   </HelpKINode>
-  <HelpKINode Title="Welcome" Url="html/4cd362b8-c3db-4b26-9bd7-2f9175eb4856.htm" />
+  <HelpKINode Title="Welcome" Url="html/welcome.htm" />
   <HelpKINode Title="X property" Url="html/P_CodeStack_SwEx_MacroFeature_Data_Point_X.htm" />
   <HelpKINode Title="Y property" Url="html/P_CodeStack_SwEx_MacroFeature_Data_Point_Y.htm" />
   <HelpKINode Title="Z property" Url="html/P_CodeStack_SwEx_MacroFeature_Data_Point_Z.htm" />
