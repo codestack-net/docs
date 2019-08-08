@@ -114,6 +114,8 @@
   <HelpKINode Title="FutureVersionParametersException class" Url="html/T_CodeStack_SwEx_MacroFeature_Exceptions_FutureVersionParametersException.htm" />
   <HelpKINode Title="GetLength method" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Vector_GetLength.htm" />
   <HelpKINode Title="GetParameters method" Url="html/M_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_GetParameters.htm" />
+  <HelpKINode Title="GetParameters(Of TParams) method" Url="html/M_SolidWorks_Interop_sldworks_MacroFeatureDataEx_GetParameters__1.htm" />
+  <HelpKINode Title="GetParameters&lt;TParams&gt; method" Url="html/M_SolidWorks_Interop_sldworks_MacroFeatureDataEx_GetParameters__1.htm" />
   <HelpKINode Title="Icons enumeration member" Url="html/T_CodeStack_SwEx_MacroFeature_Base_MacroFeatureOutdateState_e.htm" />
   <HelpKINode Title="IMacroFeatureHandler interface">
     <HelpKINode Title="IMacroFeatureHandler Interface" Url="html/T_CodeStack_SwEx_MacroFeature_Base_IMacroFeatureHandler.htm" />
@@ -137,6 +139,14 @@
     <HelpKINode Title="Vector.IsSame Method " Url="html/Overload_CodeStack_SwEx_MacroFeature_Data_Vector_IsSame.htm" />
   </HelpKINode>
   <HelpKINode Title="Logger property" Url="html/P_CodeStack_SwEx_MacroFeature_MacroFeatureEx_Logger.htm" />
+  <HelpKINode Title="MacroFeatureDataEx class">
+    <HelpKINode Title="MacroFeatureDataEx Class" Url="html/T_SolidWorks_Interop_sldworks_MacroFeatureDataEx.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_MacroFeatureDataEx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MacroFeatureDataEx.GetParameters(Of TParams) method" Url="html/M_SolidWorks_Interop_sldworks_MacroFeatureDataEx_GetParameters__1.htm" />
+  <HelpKINode Title="MacroFeatureDataEx.GetParameters&lt;TParams&gt; method" Url="html/M_SolidWorks_Interop_sldworks_MacroFeatureDataEx_GetParameters__1.htm" />
+  <HelpKINode Title="MacroFeatureDataEx.SetParameters(Of TParams) method" Url="html/M_SolidWorks_Interop_sldworks_MacroFeatureDataEx_SetParameters__1.htm" />
+  <HelpKINode Title="MacroFeatureDataEx.SetParameters&lt;TParams&gt; method" Url="html/M_SolidWorks_Interop_sldworks_MacroFeatureDataEx_SetParameters__1.htm" />
   <HelpKINode Title="MacroFeatureEx class">
     <HelpKINode Title="MacroFeatureEx Class" Url="html/T_CodeStack_SwEx_MacroFeature_MacroFeatureEx.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_MacroFeature_MacroFeatureEx.htm" />
@@ -319,9 +329,12 @@
   <HelpKINode Title="SetDirection method" Url="html/M_SolidWorks_Interop_sldworks_DimensionEx_SetDirection.htm" />
   <HelpKINode Title="SetOrientation method" Url="html/M_CodeStack_SwEx_MacroFeature_Data_DimensionDataExtension_SetOrientation.htm" />
   <HelpKINode Title="SetParameters method" Url="html/Overload_CodeStack_SwEx_MacroFeature_MacroFeatureEx_1_SetParameters.htm" />
+  <HelpKINode Title="SetParameters(Of TParams) method" Url="html/M_SolidWorks_Interop_sldworks_MacroFeatureDataEx_SetParameters__1.htm" />
+  <HelpKINode Title="SetParameters&lt;TParams&gt; method" Url="html/M_SolidWorks_Interop_sldworks_MacroFeatureDataEx_SetParameters__1.htm" />
   <HelpKINode Title="SolidWorks.Interop.sldworks namespace" Url="html/N_SolidWorks_Interop_sldworks.htm" />
   <HelpKINode Title="SolidWorks.Interop.sldworks.DimensionEx class" Url="html/T_SolidWorks_Interop_sldworks_DimensionEx.htm" />
   <HelpKINode Title="SolidWorks.Interop.sldworks.FeatureManagerEx class" Url="html/T_SolidWorks_Interop_sldworks_FeatureManagerEx.htm" />
+  <HelpKINode Title="SolidWorks.Interop.sldworks.MacroFeatureDataEx class" Url="html/T_SolidWorks_Interop_sldworks_MacroFeatureDataEx.htm" />
   <HelpKINode Title="SolidWorks.Interop.sldworks.ModelerEx class" Url="html/T_SolidWorks_Interop_sldworks_ModelerEx.htm" />
   <HelpKINode Title="Subtraction operator" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point_op_Subtraction.htm" />
   <HelpKINode Title="ToArray method" Url="html/M_CodeStack_SwEx_MacroFeature_Data_Point_ToArray.htm" />
