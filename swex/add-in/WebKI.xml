@@ -120,6 +120,7 @@
   </HelpKINode>
   <HelpKINode Title="IComStorage.GetSubStorageNames method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_GetSubStorageNames.htm" />
   <HelpKINode Title="IComStorage.GetSubStreamNames method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_GetSubStreamNames.htm" />
+  <HelpKINode Title="IComStorage.RemoveSubElement method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_RemoveSubElement.htm" />
   <HelpKINode Title="IComStorage.Storage property" Url="html/P_CodeStack_SwEx_AddIn_Base_IComStorage_Storage.htm" />
   <HelpKINode Title="IComStorage.TryOpenStorage method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_TryOpenStorage.htm" />
   <HelpKINode Title="IComStorage.TryOpenStream method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_TryOpenStream.htm" />
@@ -193,6 +194,7 @@
   <HelpKINode Title="OnSaveToStorageStore method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnSaveToStorageStore.htm" />
   <HelpKINode Title="OnSaveToStream method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnSaveToStream.htm" />
   <HelpKINode Title="Part enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="RemoveSubElement method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_RemoveSubElement.htm" />
   <HelpKINode Title="SelectDisable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="SelectEnable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="SolidWorks.Interop.sldworks namespace" Url="html/N_SolidWorks_Interop_sldworks.htm" />
