@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="AssemblyExtension class">
+    <HelpKINode Title="AssemblyExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_AssemblyExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_AssemblyExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyExtension.TryGetAttribute(Of TAtt) method" Url="html/M_CodeStack_SwEx_Common_Reflection_AssemblyExtension_TryGetAttribute__1.htm" />
+  <HelpKINode Title="AssemblyExtension.TryGetAttribute&lt;TAtt&gt; method" Url="html/M_CodeStack_SwEx_Common_Reflection_AssemblyExtension_TryGetAttribute__1.htm" />
   <HelpKINode Title="Category property">
     <HelpKINode Title="ILogger.Category Property " Url="html/P_CodeStack_SwEx_Common_Diagnostics_ILogger_Category.htm" />
     <HelpKINode Title="LoggerBase.Category Property " Url="html/P_CodeStack_SwEx_Common_Diagnostics_LoggerBase_Category.htm" />
@@ -9,6 +15,7 @@
   <HelpKINode Title="CodeStack.SwEx.Common.Attributes.LoggerOptionsAttribute class" Url="html/T_CodeStack_SwEx_Common_Attributes_LoggerOptionsAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Attributes.TitleAttribute class" Url="html/T_CodeStack_SwEx_Common_Attributes_TitleAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Base namespace" Url="html/N_CodeStack_SwEx_Common_Base.htm" />
+  <HelpKINode Title="CodeStack.SwEx.Common.Base.IIconsConverter interface" Url="html/T_CodeStack_SwEx_Common_Base_IIconsConverter.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Base.IModule interface" Url="html/T_CodeStack_SwEx_Common_Base_IModule.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Diagnostics namespace" Url="html/N_CodeStack_SwEx_Common_Diagnostics.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Diagnostics.ILogger interface" Url="html/T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm" />
@@ -19,15 +26,23 @@
   <HelpKINode Title="CodeStack.SwEx.Common.Exceptions.IconTransparencyMismatchException class" Url="html/T_CodeStack_SwEx_Common_Exceptions_IconTransparencyMismatchException.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Icons namespace" Url="html/N_CodeStack_SwEx_Common_Icons.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Icons.IconsConverter class" Url="html/T_CodeStack_SwEx_Common_Icons_IconsConverter.htm" />
+  <HelpKINode Title="CodeStack.SwEx.Common.Icons.IconsConverter.ColorReplacerDelegate delegate" Url="html/T_CodeStack_SwEx_Common_Icons_IconsConverter_ColorReplacerDelegate.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Icons.IconSizeInfo class" Url="html/T_CodeStack_SwEx_Common_Icons_IconSizeInfo.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Icons.IIcon interface" Url="html/T_CodeStack_SwEx_Common_Icons_IIcon.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Reflection namespace" Url="html/N_CodeStack_SwEx_Common_Reflection.htm" />
+  <HelpKINode Title="CodeStack.SwEx.Common.Reflection.AssemblyExtension class" Url="html/T_CodeStack_SwEx_Common_Reflection_AssemblyExtension.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Reflection.EnumExtension class" Url="html/T_CodeStack_SwEx_Common_Reflection_EnumExtension.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Reflection.MemberInfoExtension class" Url="html/T_CodeStack_SwEx_Common_Reflection_MemberInfoExtension.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Reflection.ResourceHelper class" Url="html/T_CodeStack_SwEx_Common_Reflection_ResourceHelper.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Reflection.TypeExtension class" Url="html/T_CodeStack_SwEx_Common_Reflection_TypeExtension.htm" />
-  <HelpKINode Title="ConvertIcon method" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ConvertIcon.htm" />
-  <HelpKINode Title="ConvertIconsGroup method" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ConvertIconsGroup.htm" />
+  <HelpKINode Title="ConvertIcon method">
+    <HelpKINode Title="IconsConverter.ConvertIcon Method " Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ConvertIcon.htm" />
+    <HelpKINode Title="IIconsConverter.ConvertIcon Method " Url="html/M_CodeStack_SwEx_Common_Base_IIconsConverter_ConvertIcon.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvertIconsGroup method">
+    <HelpKINode Title="IconsConverter.ConvertIconsGroup Method " Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ConvertIconsGroup.htm" />
+    <HelpKINode Title="IIconsConverter.ConvertIconsGroup Method " Url="html/M_CodeStack_SwEx_Common_Base_IIconsConverter_ConvertIconsGroup.htm" />
+  </HelpKINode>
   <HelpKINode Title="Create method" Url="html/M_CodeStack_SwEx_Common_Diagnostics_LoggerFactory_Create.htm" />
   <HelpKINode Title="CreateFileName method" Url="html/M_CodeStack_SwEx_Common_Icons_IconSizeInfo_CreateFileName.htm" />
   <HelpKINode Title="Dispose method" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_Dispose.htm" />
@@ -65,10 +80,12 @@
     <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_Common_Icons_IconsConverter__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_Common_Icons_IconsConverter.htm" />
   </HelpKINode>
+  <HelpKINode Title="IconsConverter.ColorReplacerDelegate delegate" Url="html/T_CodeStack_SwEx_Common_Icons_IconsConverter_ColorReplacerDelegate.htm" />
   <HelpKINode Title="IconsConverter.ConvertIcon method" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ConvertIcon.htm" />
   <HelpKINode Title="IconsConverter.ConvertIconsGroup method" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ConvertIconsGroup.htm" />
   <HelpKINode Title="IconsConverter.Dispose method" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_Dispose.htm" />
   <HelpKINode Title="IconsConverter.IconsConverter constructor" Url="html/Overload_CodeStack_SwEx_Common_Icons_IconsConverter__ctor.htm" />
+  <HelpKINode Title="IconsConverter.ReplaceColor method" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ReplaceColor.htm" />
   <HelpKINode Title="IconSizeInfo class">
     <HelpKINode Title="IconSizeInfo Class" Url="html/T_CodeStack_SwEx_Common_Icons_IconSizeInfo.htm" />
     <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_Common_Icons_IconSizeInfo__ctor.htm" />
@@ -93,6 +110,12 @@
   <HelpKINode Title="IIcon.GetHighResolutionIconSizes method" Url="html/M_CodeStack_SwEx_Common_Icons_IIcon_GetHighResolutionIconSizes.htm" />
   <HelpKINode Title="IIcon.GetIconSizes method" Url="html/M_CodeStack_SwEx_Common_Icons_IIcon_GetIconSizes.htm" />
   <HelpKINode Title="IIcon.TransparencyKey property" Url="html/P_CodeStack_SwEx_Common_Icons_IIcon_TransparencyKey.htm" />
+  <HelpKINode Title="IIconsConverter interface">
+    <HelpKINode Title="IIconsConverter Interface" Url="html/T_CodeStack_SwEx_Common_Base_IIconsConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_Common_Base_IIconsConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IIconsConverter.ConvertIcon method" Url="html/M_CodeStack_SwEx_Common_Base_IIconsConverter_ConvertIcon.htm" />
+  <HelpKINode Title="IIconsConverter.ConvertIconsGroup method" Url="html/M_CodeStack_SwEx_Common_Base_IIconsConverter_ConvertIconsGroup.htm" />
   <HelpKINode Title="ILogger interface">
     <HelpKINode Title="ILogger Interface" Url="html/T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm" />
@@ -107,6 +130,7 @@
   </HelpKINode>
   <HelpKINode Title="IModule.Logger property" Url="html/P_CodeStack_SwEx_Common_Base_IModule_Logger.htm" />
   <HelpKINode Title="IsAssignableToGenericType method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_IsAssignableToGenericType.htm" />
+  <HelpKINode Title="IsComVisible method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_IsComVisible.htm" />
   <HelpKINode Title="Log method">
     <HelpKINode Title="ILogger.Log Method " Url="html/Overload_CodeStack_SwEx_Common_Diagnostics_ILogger_Log.htm" />
     <HelpKINode Title="LoggerBase.Log Method " Url="html/Overload_CodeStack_SwEx_Common_Diagnostics_LoggerBase_Log.htm" />
@@ -146,6 +170,7 @@
   <HelpKINode Title="MemberInfoExtension.TryGetAttribute&lt;TAtt&gt; method" Url="html/M_CodeStack_SwEx_Common_Reflection_MemberInfoExtension_TryGetAttribute__1.htm" />
   <HelpKINode Title="Name property" Url="html/P_CodeStack_SwEx_Common_Icons_IconSizeInfo_Name.htm" />
   <HelpKINode Title="ParseExceptionLog method" Url="html/M_CodeStack_SwEx_Common_Diagnostics_LoggerBase_ParseExceptionLog.htm" />
+  <HelpKINode Title="ReplaceColor method" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ReplaceColor.htm" />
   <HelpKINode Title="ResourceHelper class">
     <HelpKINode Title="ResourceHelper Class" Url="html/T_CodeStack_SwEx_Common_Reflection_ResourceHelper.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_ResourceHelper.htm" />
@@ -166,8 +191,14 @@
     <HelpKINode Title="EnumExtension.TryGetAttribute Method " Url="html/Overload_CodeStack_SwEx_Common_Reflection_EnumExtension_TryGetAttribute.htm" />
     <HelpKINode Title="TypeExtension.TryGetAttribute Method " Url="html/Overload_CodeStack_SwEx_Common_Reflection_TypeExtension_TryGetAttribute.htm" />
   </HelpKINode>
-  <HelpKINode Title="TryGetAttribute(Of TAtt) method" Url="html/M_CodeStack_SwEx_Common_Reflection_MemberInfoExtension_TryGetAttribute__1.htm" />
-  <HelpKINode Title="TryGetAttribute&lt;TAtt&gt; method" Url="html/M_CodeStack_SwEx_Common_Reflection_MemberInfoExtension_TryGetAttribute__1.htm" />
+  <HelpKINode Title="TryGetAttribute(Of TAtt) method">
+    <HelpKINode Title="AssemblyExtension.TryGetAttribute(TAtt) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_AssemblyExtension_TryGetAttribute__1.htm" />
+    <HelpKINode Title="MemberInfoExtension.TryGetAttribute(TAtt) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_MemberInfoExtension_TryGetAttribute__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TryGetAttribute&lt;TAtt&gt; method">
+    <HelpKINode Title="AssemblyExtension.TryGetAttribute(TAtt) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_AssemblyExtension_TryGetAttribute__1.htm" />
+    <HelpKINode Title="MemberInfoExtension.TryGetAttribute(TAtt) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_MemberInfoExtension_TryGetAttribute__1.htm" />
+  </HelpKINode>
   <HelpKINode Title="TypeExtension class">
     <HelpKINode Title="TypeExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_TypeExtension.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_TypeExtension.htm" />
@@ -177,6 +208,7 @@
   <HelpKINode Title="TypeExtension.GetAttribute&lt;TAtt&gt; method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_GetAttribute__1.htm" />
   <HelpKINode Title="TypeExtension.GetProgId method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_GetProgId.htm" />
   <HelpKINode Title="TypeExtension.IsAssignableToGenericType method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_IsAssignableToGenericType.htm" />
+  <HelpKINode Title="TypeExtension.IsComVisible method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_IsComVisible.htm" />
   <HelpKINode Title="TypeExtension.TryFindGenericType method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_TryFindGenericType.htm" />
   <HelpKINode Title="TypeExtension.TryGetAttribute method" Url="html/Overload_CodeStack_SwEx_Common_Reflection_TypeExtension_TryGetAttribute.htm" />
 </HelpKI>
