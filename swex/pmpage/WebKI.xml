@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="BackgroundColor property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_BackgroundColor.htm" />
   <HelpKINode Title="Cancel property" Url="html/P_CodeStack_SwEx_PMPage_Base_ClosingArg_Cancel.htm" />
+  <HelpKINode Title="Caption property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Caption.htm" />
+  <HelpKINode Title="Checked property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Checked.htm" />
   <HelpKINode Title="Closed event">
     <HelpKINode Title="IPropertyManagerPageHandlerEx.Closed Event" Url="html/E_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx_Closed.htm" />
     <HelpKINode Title="PropertyManagerPageHandlerEx.Closed Event" Url="html/E_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx_Closed.htm" />
@@ -27,6 +30,8 @@
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.IgnoreBindingAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_IgnoreBindingAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.MessageAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_MessageAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.NumberBoxOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.OptionBoxAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.OptionBoxOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_OptionBoxOptionsAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.PageOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.SelectionBoxAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.SelectionBoxOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxOptionsAttribute.htm" />
@@ -44,6 +49,7 @@
   <HelpKINode Title="CodeStack.SwEx.PMPage.Base.SelectionCustomFilter&lt;TSelection&gt; class" Url="html/T_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Controls namespace" Url="html/N_CodeStack_SwEx_PMPage_Controls.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Controls.IPropertyManagerPageControlEx interface" Url="html/T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx.htm" />
+  <HelpKINode Title="CodeStack.SwEx.PMPage.Controls.PropertyManagerPageOptionBox class" Url="html/T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Data namespace" Url="html/N_CodeStack_SwEx_PMPage_Data.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Data.PageSpec class" Url="html/T_CodeStack_SwEx_PMPage_Data_PageSpec.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.PropertyManagerPageEx(Of THandler, TModel) class" Url="html/T_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2.htm" />
@@ -67,6 +73,7 @@
   <HelpKINode Title="Controls property">
     <HelpKINode Title="IPropertyManagerPageEx(THandler, TModel).Controls Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2_Controls.htm" />
     <HelpKINode Title="PropertyManagerPageEx(THandler, TModel).Controls Property " Url="html/P_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Controls.htm" />
+    <HelpKINode Title="PropertyManagerPageOptionBox.Controls Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Controls.htm" />
   </HelpKINode>
   <HelpKINode Title="ControlTagAttribute class">
     <HelpKINode Title="ControlTagAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlTagAttribute.htm" />
@@ -91,10 +98,14 @@
     <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Attributes_DependentOnAttribute.htm" />
   </HelpKINode>
   <HelpKINode Title="DependentOnAttribute.DependentOnAttribute constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_DependentOnAttribute__ctor.htm" />
-  <HelpKINode Title="Enabled property" Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_Enabled.htm" />
+  <HelpKINode Title="Enabled property">
+    <HelpKINode Title="IPropertyManagerPageControlEx.Enabled Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_Enabled.htm" />
+    <HelpKINode Title="PropertyManagerPageOptionBox.Enabled Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Enabled.htm" />
+  </HelpKINode>
   <HelpKINode Title="ErrorMessage property" Url="html/P_CodeStack_SwEx_PMPage_Base_ClosingArg_ErrorMessage.htm" />
   <HelpKINode Title="ErrorTitle property" Url="html/P_CodeStack_SwEx_PMPage_Base_ClosingArg_ErrorTitle.htm" />
   <HelpKINode Title="Filter method" Url="html/Overload_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1_Filter.htm" />
+  <HelpKINode Title="GetGroupBox method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_GetGroupBox.htm" />
   <HelpKINode Title="Handler property">
     <HelpKINode Title="IPropertyManagerPageEx(THandler, TModel).Handler Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2_Handler.htm" />
     <HelpKINode Title="PropertyManagerPageEx(THandler, TModel).Handler Property " Url="html/P_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Handler.htm" />
@@ -154,6 +165,7 @@
   <HelpKINode Title="IPropertyManagerPageHandlerEx.Closed event" Url="html/E_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx_Closed.htm" />
   <HelpKINode Title="IPropertyManagerPageHandlerEx.Closing event" Url="html/E_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx_Closing.htm" />
   <HelpKINode Title="IPropertyManagerPageHandlerEx.DataChanged event" Url="html/E_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx_DataChanged.htm" />
+  <HelpKINode Title="Left property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Left.htm" />
   <HelpKINode Title="Logger property" Url="html/P_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Logger.htm" />
   <HelpKINode Title="MessageAttribute class">
     <HelpKINode Title="MessageAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_MessageAttribute.htm" />
@@ -169,10 +181,22 @@
     <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="NumberBoxOptionsAttribute.NumberBoxOptionsAttribute constructor" Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute__ctor.htm" />
+  <HelpKINode Title="OptionBoxAttribute class">
+    <HelpKINode Title="OptionBoxAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OptionBoxAttribute.OptionBoxAttribute constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute__ctor.htm" />
+  <HelpKINode Title="OptionBoxOptionsAttribute class">
+    <HelpKINode Title="OptionBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_OptionBoxOptionsAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_OptionBoxOptionsAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OptionBoxOptionsAttribute.OptionBoxOptionsAttribute constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_OptionBoxOptionsAttribute__ctor.htm" />
   <HelpKINode Title="Options property">
     <HelpKINode Title="IPageSpec.Options Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPageSpec_Options.htm" />
     <HelpKINode Title="PageSpec.Options Property " Url="html/P_CodeStack_SwEx_PMPage_Data_PageSpec_Options.htm" />
   </HelpKINode>
+  <HelpKINode Title="OptionsForResize property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_OptionsForResize.htm" />
   <HelpKINode Title="PageOptionsAttribute class">
     <HelpKINode Title="PageOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute.htm" />
     <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute__ctor.htm" />
@@ -220,6 +244,30 @@
   <HelpKINode Title="PropertyManagerPageHandlerEx.Closed event" Url="html/E_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx_Closed.htm" />
   <HelpKINode Title="PropertyManagerPageHandlerEx.Closing event" Url="html/E_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx_Closing.htm" />
   <HelpKINode Title="PropertyManagerPageHandlerEx.DataChanged event" Url="html/E_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx_DataChanged.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox class">
+    <HelpKINode Title="PropertyManagerPageOptionBox Class" Url="html/T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyManagerPageOptionBox.BackgroundColor property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_BackgroundColor.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Caption property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Caption.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Checked property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Checked.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Controls property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Controls.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Enabled property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Enabled.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.GetGroupBox method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_GetGroupBox.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Left property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Left.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.OptionsForResize property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_OptionsForResize.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.PropertyManagerPageOptionBox constructor" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox__ctor.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.SetPictureLabelByName method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_SetPictureLabelByName.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.SetStandardPictureLabel method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_SetStandardPictureLabel.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.ShowBubbleTooltip method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_ShowBubbleTooltip.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Style property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Style.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.TextColor property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_TextColor.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Tip property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Tip.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Top property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Top.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Visible property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Visible.htm" />
+  <HelpKINode Title="PropertyManagerPageOptionBox.Width property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Width.htm" />
   <HelpKINode Title="SelectionBoxAttribute class">
     <HelpKINode Title="SelectionBoxAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute.htm" />
     <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute__ctor.htm" />
@@ -245,25 +293,36 @@
   </HelpKINode>
   <HelpKINode Title="SelectionCustomFilter&lt;TSelection&gt;.Filter method" Url="html/Overload_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1_Filter.htm" />
   <HelpKINode Title="SelectionCustomFilter&lt;TSelection&gt;.SelectionCustomFilter constructor" Url="html/M_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1__ctor.htm" />
+  <HelpKINode Title="SetPictureLabelByName method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_SetPictureLabelByName.htm" />
+  <HelpKINode Title="SetStandardPictureLabel method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_SetStandardPictureLabel.htm" />
   <HelpKINode Title="Show method">
     <HelpKINode Title="IPropertyManagerPageEx(THandler, TModel).Show Method " Url="html/M_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2_Show.htm" />
     <HelpKINode Title="PropertyManagerPageEx(THandler, TModel).Show Method " Url="html/M_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Show.htm" />
   </HelpKINode>
+  <HelpKINode Title="ShowBubbleTooltip method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_ShowBubbleTooltip.htm" />
+  <HelpKINode Title="Style property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Style.htm" />
   <HelpKINode Title="SwControl property" Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_SwControl.htm" />
   <HelpKINode Title="TextBoxOptionsAttribute class">
     <HelpKINode Title="TextBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute.htm" />
     <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="TextBoxOptionsAttribute.TextBoxOptionsAttribute constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute__ctor.htm" />
+  <HelpKINode Title="TextColor property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_TextColor.htm" />
+  <HelpKINode Title="Tip property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Tip.htm" />
   <HelpKINode Title="Title property">
     <HelpKINode Title="IPageSpec.Title Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPageSpec_Title.htm" />
     <HelpKINode Title="PageSpec.Title Property " Url="html/P_CodeStack_SwEx_PMPage_Data_PageSpec_Title.htm" />
   </HelpKINode>
+  <HelpKINode Title="Top property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Top.htm" />
   <HelpKINode Title="UpdateControlState method" Url="html/M_CodeStack_SwEx_PMPage_Base_DependencyHandler_UpdateControlState.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/v0-1-0.htm" />
     <HelpKINode Title="history" Url="html/version-history.htm" />
   </HelpKINode>
-  <HelpKINode Title="Visible property" Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_Visible.htm" />
+  <HelpKINode Title="Visible property">
+    <HelpKINode Title="IPropertyManagerPageControlEx.Visible Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_Visible.htm" />
+    <HelpKINode Title="PropertyManagerPageOptionBox.Visible Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Visible.htm" />
+  </HelpKINode>
   <HelpKINode Title="Welcome" Url="html/welcome.htm" />
+  <HelpKINode Title="Width property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Width.htm" />
 </HelpKI>
