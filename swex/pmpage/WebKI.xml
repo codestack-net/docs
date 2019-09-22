@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
   <HelpKINode Title="BackgroundColor property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_BackgroundColor.htm" />
+  <HelpKINode Title="BitmapOptionsAttribute class">
+    <HelpKINode Title="BitmapOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_BitmapOptionsAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_BitmapOptionsAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BitmapOptionsAttribute.BitmapOptionsAttribute constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_BitmapOptionsAttribute__ctor.htm" />
   <HelpKINode Title="Cancel property" Url="html/P_CodeStack_SwEx_PMPage_Base_ClosingArg_Cancel.htm" />
   <HelpKINode Title="Caption property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Caption.htm" />
   <HelpKINode Title="Checked property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Checked.htm" />
@@ -21,6 +26,7 @@
   <HelpKINode Title="ClosingArg.ErrorTitle property" Url="html/P_CodeStack_SwEx_PMPage_Base_ClosingArg_ErrorTitle.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage namespace" Url="html/N_CodeStack_SwEx_PMPage.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes namespace" Url="html/N_CodeStack_SwEx_PMPage_Attributes.htm" />
+  <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.BitmapOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_BitmapOptionsAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.ComboBoxOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ComboBoxOptionsAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.ControlAttributionAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlAttributionAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.ControlOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlOptionsAttribute.htm" />
@@ -35,6 +41,7 @@
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.PageOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.SelectionBoxAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.SelectionBoxOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxOptionsAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.TabAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TabAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Attributes.TextBoxOptionsAttribute class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Base namespace" Url="html/N_CodeStack_SwEx_PMPage_Base.htm" />
   <HelpKINode Title="CodeStack.SwEx.PMPage.Base.ClosingArg class" Url="html/T_CodeStack_SwEx_PMPage_Base_ClosingArg.htm" />
@@ -302,6 +309,12 @@
   <HelpKINode Title="ShowBubbleTooltip method" Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_ShowBubbleTooltip.htm" />
   <HelpKINode Title="Style property" Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Style.htm" />
   <HelpKINode Title="SwControl property" Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_SwControl.htm" />
+  <HelpKINode Title="TabAttribute class">
+    <HelpKINode Title="TabAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TabAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_TabAttribute__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Attributes_TabAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TabAttribute.TabAttribute constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_TabAttribute__ctor.htm" />
   <HelpKINode Title="TextBoxOptionsAttribute class">
     <HelpKINode Title="TextBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute.htm" />
     <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute__ctor.htm" />
