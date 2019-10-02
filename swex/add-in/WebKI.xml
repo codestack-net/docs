@@ -1,7 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="Access3rdPartyData event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Access3rdPartyData.htm" />
+  <HelpKINode Title="Access3rdPartyDataDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_Access3rdPartyDataDelegate.htm" />
+  <HelpKINode Title="Access3rdPartyDataState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_Access3rdPartyDataState_e.htm" />
   <HelpKINode Title="Access3rdPartyStorageStore method" Url="html/M_SolidWorks_Interop_sldworks_ModelDocExtension_Access3rdPartyStorageStore.htm" />
   <HelpKINode Title="Access3rdPartyStream method" Url="html/M_SolidWorks_Interop_sldworks_ModelDocExtension_Access3rdPartyStream.htm" />
+  <HelpKINode Title="Action property" Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Action.htm" />
+  <HelpKINode Title="Activated event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Activated.htm" />
+  <HelpKINode Title="Add enumeration member">
+    <HelpKINode Title="CustomPropertyChangeAction_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CustomPropertyChangeAction_e.htm" />
+    <HelpKINode Title="ItemModificationAction_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_ItemModificationAction_e.htm" />
+  </HelpKINode>
   <HelpKINode Title="AddCommandGroup(Of TCmdEnum) method">
     <HelpKINode Title="ISwAddInEx.AddCommandGroup(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddCommandGroup__1.htm" />
     <HelpKINode Title="SwAddInEx.AddCommandGroup(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddCommandGroup__1.htm" />
@@ -31,7 +40,9 @@
     <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="AutoRegisterAttribute.AutoRegisterAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute__ctor.htm" />
+  <HelpKINode Title="AutoSave enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SaveState_e.htm" />
   <HelpKINode Title="CallbackNotSpecifiedException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_CallbackNotSpecifiedException.htm" />
+  <HelpKINode Title="ClearSelection enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SelectionState_e.htm" />
   <HelpKINode Title="CmdMgr property" Url="html/P_CodeStack_SwEx_AddIn_SwAddInEx_CmdMgr.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn namespace" Url="html/N_CodeStack_SwEx_AddIn.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Attributes namespace" Url="html/N_CodeStack_SwEx_AddIn_Attributes.htm" />
@@ -52,10 +63,27 @@
   <HelpKINode Title="CodeStack.SwEx.AddIn.Base.IThirdPartyStreamHandler interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IThirdPartyStreamHandler.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Core namespace" Url="html/N_CodeStack_SwEx_AddIn_Core.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Core.DocumentHandler class" Url="html/T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm" />
-  <HelpKINode Title="CodeStack.SwEx.AddIn.EnableMethodDelegate(Of TCmdEnum) delegate" Url="html/T_CodeStack_SwEx_AddIn_EnableMethodDelegate_1.htm" />
-  <HelpKINode Title="CodeStack.SwEx.AddIn.EnableMethodDelegate&lt;TCmdEnum&gt; delegate" Url="html/T_CodeStack_SwEx_AddIn_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates namespace" Url="html/N_CodeStack_SwEx_AddIn_Delegates.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.Access3rdPartyDataDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_Access3rdPartyDataDelegate.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.ConfigurationChangeDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ConfigurationChangeDelegate.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.CustomPropertyModifyData class" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.CustomPropertyModifyDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyDelegate.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.DocumentSaveDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DocumentSaveDelegate.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.DocumentStateChangedDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DocumentStateChangedDelegate.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.EnableMethodDelegate(Of TCmdEnum) delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.EnableMethodDelegate&lt;TCmdEnum&gt; delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.ItemModifyDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ItemModifyDelegate.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.ObjectSelectionDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ObjectSelectionDelegate.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.RebuildDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_RebuildDelegate.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Enums namespace" Url="html/N_CodeStack_SwEx_AddIn_Enums.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.Access3rdPartyDataState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_Access3rdPartyDataState_e.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.CommandItemEnableState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.ConfigurationChangeState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_ConfigurationChangeState_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.CustomPropertyChangeAction_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CustomPropertyChangeAction_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.ItemModificationAction_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_ItemModificationAction_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.RebuildState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_RebuildState_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.SaveState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_SaveState_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.SelectionState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_SelectionState_e.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Enums.swWorkspaceTypes_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Exceptions namespace" Url="html/N_CodeStack_SwEx_AddIn_Exceptions.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Exceptions.CallbackNotSpecifiedException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_CallbackNotSpecifiedException.htm" />
@@ -83,32 +111,60 @@
     <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="CommandSpacerAttribute.CommandSpacerAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute__ctor.htm" />
-  <HelpKINode Title="CreateDocumentsHandler(Of TDocHandler) method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler__1.htm" />
-  <HelpKINode Title="CreateDocumentsHandler&lt;TDocHandler&gt; method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler__1.htm" />
+  <HelpKINode Title="Configuration property" Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Configuration.htm" />
+  <HelpKINode Title="ConfigurationChange event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_ConfigurationChange.htm" />
+  <HelpKINode Title="ConfigurationChangeDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ConfigurationChangeDelegate.htm" />
+  <HelpKINode Title="ConfigurationChangeState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_ConfigurationChangeState_e.htm" />
+  <HelpKINode Title="CreateDocumentsHandler method" Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler.htm" />
   <HelpKINode Title="CreateTaskPane method" Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateTaskPane.htm" />
+  <HelpKINode Title="CustomPropertyChangeAction_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CustomPropertyChangeAction_e.htm" />
+  <HelpKINode Title="CustomPropertyModify event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_CustomPropertyModify.htm" />
+  <HelpKINode Title="CustomPropertyModifyData class">
+    <HelpKINode Title="CustomPropertyModifyData Class" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CustomPropertyModifyData.Action property" Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Action.htm" />
+  <HelpKINode Title="CustomPropertyModifyData.Configuration property" Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Configuration.htm" />
+  <HelpKINode Title="CustomPropertyModifyData.Name property" Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Name.htm" />
+  <HelpKINode Title="CustomPropertyModifyData.Value property" Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Value.htm" />
+  <HelpKINode Title="CustomPropertyModifyDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyDelegate.htm" />
+  <HelpKINode Title="Delete enumeration member">
+    <HelpKINode Title="CustomPropertyChangeAction_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CustomPropertyChangeAction_e.htm" />
+    <HelpKINode Title="ItemModificationAction_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_ItemModificationAction_e.htm" />
+  </HelpKINode>
   <HelpKINode Title="DeselectDisable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="DeselectEnable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="Destroyed event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Destroyed.htm" />
   <HelpKINode Title="Dispose method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_Dispose.htm" />
   <HelpKINode Title="DocumentHandler class">
     <HelpKINode Title="DocumentHandler Class" Url="html/T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm" />
     <HelpKINode Title="constructor" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm" />
   </HelpKINode>
+  <HelpKINode Title="DocumentHandler.Access3rdPartyData event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Access3rdPartyData.htm" />
+  <HelpKINode Title="DocumentHandler.Activated event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Activated.htm" />
   <HelpKINode Title="DocumentHandler.App property" Url="html/P_CodeStack_SwEx_AddIn_Core_DocumentHandler_App.htm" />
+  <HelpKINode Title="DocumentHandler.ConfigurationChange event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_ConfigurationChange.htm" />
+  <HelpKINode Title="DocumentHandler.CustomPropertyModify event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_CustomPropertyModify.htm" />
+  <HelpKINode Title="DocumentHandler.Destroyed event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Destroyed.htm" />
   <HelpKINode Title="DocumentHandler.Dispose method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_Dispose.htm" />
   <HelpKINode Title="DocumentHandler.DocumentHandler constructor" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler__ctor.htm" />
+  <HelpKINode Title="DocumentHandler.Initialized event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Initialized.htm" />
+  <HelpKINode Title="DocumentHandler.ItemModify event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_ItemModify.htm" />
   <HelpKINode Title="DocumentHandler.Model property" Url="html/P_CodeStack_SwEx_AddIn_Core_DocumentHandler_Model.htm" />
   <HelpKINode Title="DocumentHandler.OnActivate method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnActivate.htm" />
   <HelpKINode Title="DocumentHandler.OnDestroy method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnDestroy.htm" />
   <HelpKINode Title="DocumentHandler.OnInit method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnInit.htm" />
-  <HelpKINode Title="DocumentHandler.OnLoadFromStorageStore method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnLoadFromStorageStore.htm" />
-  <HelpKINode Title="DocumentHandler.OnLoadFromStream method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnLoadFromStream.htm" />
-  <HelpKINode Title="DocumentHandler.OnSaveToStorageStore method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnSaveToStorageStore.htm" />
-  <HelpKINode Title="DocumentHandler.OnSaveToStream method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnSaveToStream.htm" />
+  <HelpKINode Title="DocumentHandler.Rebuild event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Rebuild.htm" />
+  <HelpKINode Title="DocumentHandler.Save event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Save.htm" />
+  <HelpKINode Title="DocumentHandler.Selection event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Selection.htm" />
+  <HelpKINode Title="DocumentSaveDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DocumentSaveDelegate.htm" />
+  <HelpKINode Title="DocumentStateChangedDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DocumentStateChangedDelegate.htm" />
   <HelpKINode Title="Drawing enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
-  <HelpKINode Title="EnableMethodDelegate(Of TCmdEnum) delegate" Url="html/T_CodeStack_SwEx_AddIn_EnableMethodDelegate_1.htm" />
-  <HelpKINode Title="EnableMethodDelegate&lt;TCmdEnum&gt; delegate" Url="html/T_CodeStack_SwEx_AddIn_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="EnableMethodDelegate(Of TCmdEnum) delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_EnableMethodDelegate_1.htm" />
+  <HelpKINode Title="EnableMethodDelegate&lt;TCmdEnum&gt; delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_EnableMethodDelegate_1.htm" />
   <HelpKINode Title="GetSubStorageNames method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_GetSubStorageNames.htm" />
   <HelpKINode Title="GetSubStreamNames method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_GetSubStreamNames.htm" />
   <HelpKINode Title="GroupIdAlreadyExistsException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_GroupIdAlreadyExistsException.htm" />
@@ -144,6 +200,7 @@
   <HelpKINode Title="IDocumentsHandler&lt;TDocHandler&gt;.HandlerCreated event" Url="html/E_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1_HandlerCreated.htm" />
   <HelpKINode Title="IDocumentsHandler&lt;TDocHandler&gt;.Item property" Url="html/P_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1_Item.htm" />
   <HelpKINode Title="Init method" Url="html/M_CodeStack_SwEx_AddIn_Base_IDocumentHandler_Init.htm" />
+  <HelpKINode Title="Initialized event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Initialized.htm" />
   <HelpKINode Title="InvalidMenuToolbarOptionsException class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_InvalidMenuToolbarOptionsException.htm" />
   <HelpKINode Title="ISwAddInEx interface">
     <HelpKINode Title="ISwAddInEx Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm" />
@@ -154,12 +211,14 @@
   <HelpKINode Title="ISwAddInEx.AddCommandGroup&lt;TCmdEnum&gt; method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddCommandGroup__1.htm" />
   <HelpKINode Title="ISwAddInEx.AddContextMenu(Of TCmdEnum) method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddContextMenu__1.htm" />
   <HelpKINode Title="ISwAddInEx.AddContextMenu&lt;TCmdEnum&gt; method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddContextMenu__1.htm" />
-  <HelpKINode Title="ISwAddInEx.CreateDocumentsHandler(Of TDocHandler) method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler__1.htm" />
-  <HelpKINode Title="ISwAddInEx.CreateDocumentsHandler&lt;TDocHandler&gt; method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler__1.htm" />
+  <HelpKINode Title="ISwAddInEx.CreateDocumentsHandler method" Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler.htm" />
   <HelpKINode Title="ISwAddInEx.CreateTaskPane method" Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateTaskPane.htm" />
   <HelpKINode Title="ISwAddInEx.OnConnect method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnConnect.htm" />
   <HelpKINode Title="ISwAddInEx.OnDisconnect method" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnDisconnect.htm" />
   <HelpKINode Title="Item property" Url="html/P_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1_Item.htm" />
+  <HelpKINode Title="ItemModificationAction_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_ItemModificationAction_e.htm" />
+  <HelpKINode Title="ItemModify event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_ItemModify.htm" />
+  <HelpKINode Title="ItemModifyDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ItemModifyDelegate.htm" />
   <HelpKINode Title="IThirdPartyStoreHandler interface">
     <HelpKINode Title="IThirdPartyStoreHandler Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IThirdPartyStoreHandler.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IThirdPartyStoreHandler.htm" />
@@ -177,7 +236,11 @@
   </HelpKINode>
   <HelpKINode Title="ModelDocExtension.Access3rdPartyStorageStore method" Url="html/M_SolidWorks_Interop_sldworks_ModelDocExtension_Access3rdPartyStorageStore.htm" />
   <HelpKINode Title="ModelDocExtension.Access3rdPartyStream method" Url="html/M_SolidWorks_Interop_sldworks_ModelDocExtension_Access3rdPartyStream.htm" />
+  <HelpKINode Title="Modify enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CustomPropertyChangeAction_e.htm" />
+  <HelpKINode Title="Name property" Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Name.htm" />
+  <HelpKINode Title="NewSelection enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SelectionState_e.htm" />
   <HelpKINode Title="NoDocuments enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="ObjectSelectionDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ObjectSelectionDelegate.htm" />
   <HelpKINode Title="OnActivate method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnActivate.htm" />
   <HelpKINode Title="OnConnect method">
     <HelpKINode Title="ISwAddInEx.OnConnect Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnConnect.htm" />
@@ -189,21 +252,39 @@
     <HelpKINode Title="SwAddInEx.OnDisconnect Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_OnDisconnect.htm" />
   </HelpKINode>
   <HelpKINode Title="OnInit method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnInit.htm" />
-  <HelpKINode Title="OnLoadFromStorageStore method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnLoadFromStorageStore.htm" />
-  <HelpKINode Title="OnLoadFromStream method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnLoadFromStream.htm" />
-  <HelpKINode Title="OnSaveToStorageStore method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnSaveToStorageStore.htm" />
-  <HelpKINode Title="OnSaveToStream method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnSaveToStream.htm" />
   <HelpKINode Title="Part enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
+  <HelpKINode Title="PostActivate enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_ConfigurationChangeState_e.htm" />
+  <HelpKINode Title="PostCancel enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SaveState_e.htm" />
+  <HelpKINode Title="PostRebuild enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_RebuildState_e.htm" />
+  <HelpKINode Title="PostSave enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SaveState_e.htm" />
+  <HelpKINode Title="PreActivate enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_ConfigurationChangeState_e.htm" />
+  <HelpKINode Title="PreDelete enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_ItemModificationAction_e.htm" />
+  <HelpKINode Title="PreRebuild enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_RebuildState_e.htm" />
+  <HelpKINode Title="PreRename enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_ItemModificationAction_e.htm" />
+  <HelpKINode Title="PreSave enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SaveState_e.htm" />
+  <HelpKINode Title="Rebuild event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Rebuild.htm" />
+  <HelpKINode Title="RebuildDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_RebuildDelegate.htm" />
+  <HelpKINode Title="RebuildState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_RebuildState_e.htm" />
   <HelpKINode Title="RemoveSubElement method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_RemoveSubElement.htm" />
+  <HelpKINode Title="Rename enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_ItemModificationAction_e.htm" />
+  <HelpKINode Title="Save event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Save.htm" />
+  <HelpKINode Title="SaveAs enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SaveState_e.htm" />
+  <HelpKINode Title="SaveState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_SaveState_e.htm" />
   <HelpKINode Title="SelectDisable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="SelectEnable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
+  <HelpKINode Title="Selection event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Selection.htm" />
+  <HelpKINode Title="SelectionState_e enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_SelectionState_e.htm" />
   <HelpKINode Title="SolidWorks.Interop.sldworks namespace" Url="html/N_SolidWorks_Interop_sldworks.htm" />
   <HelpKINode Title="SolidWorks.Interop.sldworks.ModelDocExtension class" Url="html/T_SolidWorks_Interop_sldworks_ModelDocExtension.htm" />
   <HelpKINode Title="Storage property">
     <HelpKINode Title="IComStorage.Storage Property " Url="html/P_CodeStack_SwEx_AddIn_Base_IComStorage_Storage.htm" />
     <HelpKINode Title="IThirdPartyStoreHandler.Storage Property " Url="html/P_CodeStack_SwEx_AddIn_Base_IThirdPartyStoreHandler_Storage.htm" />
   </HelpKINode>
+  <HelpKINode Title="StorageRead enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_Access3rdPartyDataState_e.htm" />
+  <HelpKINode Title="StorageWrite enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_Access3rdPartyDataState_e.htm" />
   <HelpKINode Title="Stream property" Url="html/P_CodeStack_SwEx_AddIn_Base_IThirdPartyStreamHandler_Stream.htm" />
+  <HelpKINode Title="StreamRead enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_Access3rdPartyDataState_e.htm" />
+  <HelpKINode Title="StreamWrite enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_Access3rdPartyDataState_e.htm" />
   <HelpKINode Title="SwAddInEx class">
     <HelpKINode Title="SwAddInEx Class" Url="html/T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_SwAddInEx.htm" />
@@ -231,6 +312,9 @@
   <HelpKINode Title="TaskPaneStandardButtonAttribute.TaskPaneStandardButtonAttribute constructor" Url="html/M_CodeStack_SwEx_AddIn_Attributes_TaskPaneStandardButtonAttribute__ctor.htm" />
   <HelpKINode Title="TryOpenStorage method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_TryOpenStorage.htm" />
   <HelpKINode Title="TryOpenStream method" Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_TryOpenStream.htm" />
+  <HelpKINode Title="UserPostSelect enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SelectionState_e.htm" />
+  <HelpKINode Title="UserPreSelect enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_SelectionState_e.htm" />
+  <HelpKINode Title="Value property" Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Value.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="0.1.0" Url="html/v0-1-0.htm" />
     <HelpKINode Title="0.2.2" Url="html/v0-2-2.htm" />
