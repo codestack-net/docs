@@ -13,6 +13,7 @@
   <HelpKINode Title="CodeStack.SwEx.Common.Attributes namespace" Url="html/N_CodeStack_SwEx_Common_Attributes.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Attributes.IconAttribute class" Url="html/T_CodeStack_SwEx_Common_Attributes_IconAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Attributes.LoggerOptionsAttribute class" Url="html/T_CodeStack_SwEx_Common_Attributes_LoggerOptionsAttribute.htm" />
+  <HelpKINode Title="CodeStack.SwEx.Common.Attributes.SummaryAttribute class" Url="html/T_CodeStack_SwEx_Common_Attributes_SummaryAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Attributes.TitleAttribute class" Url="html/T_CodeStack_SwEx_Common_Attributes_TitleAttribute.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Base namespace" Url="html/N_CodeStack_SwEx_Common_Base.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Base.IIconsConverter interface" Url="html/T_CodeStack_SwEx_Common_Base_IIconsConverter.htm" />
@@ -22,6 +23,8 @@
   <HelpKINode Title="CodeStack.SwEx.Common.Diagnostics.LoggerBase class" Url="html/T_CodeStack_SwEx_Common_Diagnostics_LoggerBase.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Diagnostics.LoggerFactory class" Url="html/T_CodeStack_SwEx_Common_Diagnostics_LoggerFactory.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Diagnostics.LoggerType_e enumeration" Url="html/T_CodeStack_SwEx_Common_Diagnostics_LoggerType_e.htm" />
+  <HelpKINode Title="CodeStack.SwEx.Common.Enums namespace" Url="html/N_CodeStack_SwEx_Common_Enums.htm" />
+  <HelpKINode Title="CodeStack.SwEx.Common.Enums.SwVersion_e enumeration" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Exceptions namespace" Url="html/N_CodeStack_SwEx_Common_Exceptions.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Exceptions.IconTransparencyMismatchException class" Url="html/T_CodeStack_SwEx_Common_Exceptions_IconTransparencyMismatchException.htm" />
   <HelpKINode Title="CodeStack.SwEx.Common.Icons namespace" Url="html/N_CodeStack_SwEx_Common_Icons.htm" />
@@ -67,6 +70,7 @@
   <HelpKINode Title="GetProgId method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_GetProgId.htm" />
   <HelpKINode Title="GetResource(Of T) method" Url="html/M_CodeStack_SwEx_Common_Reflection_ResourceHelper_GetResource__1.htm" />
   <HelpKINode Title="GetResource&lt;T&gt; method" Url="html/M_CodeStack_SwEx_Common_Reflection_ResourceHelper_GetResource__1.htm" />
+  <HelpKINode Title="GetVersion method" Url="html/Overload_SolidWorks_Interop_sldworks_SldWorksCommonEx_GetVersion.htm" />
   <HelpKINode Title="Icon property" Url="html/P_CodeStack_SwEx_Common_Attributes_IconAttribute_Icon.htm" />
   <HelpKINode Title="IconAttribute class">
     <HelpKINode Title="IconAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_IconAttribute.htm" />
@@ -131,6 +135,7 @@
   <HelpKINode Title="IModule.Logger property" Url="html/P_CodeStack_SwEx_Common_Base_IModule_Logger.htm" />
   <HelpKINode Title="IsAssignableToGenericType method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_IsAssignableToGenericType.htm" />
   <HelpKINode Title="IsComVisible method" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_IsComVisible.htm" />
+  <HelpKINode Title="IsVersionNewerOrEqual method" Url="html/M_SolidWorks_Interop_sldworks_SldWorksCommonEx_IsVersionNewerOrEqual.htm" />
   <HelpKINode Title="Log method">
     <HelpKINode Title="ILogger.Log Method " Url="html/Overload_CodeStack_SwEx_Common_Diagnostics_ILogger_Log.htm" />
     <HelpKINode Title="LoggerBase.Log Method " Url="html/Overload_CodeStack_SwEx_Common_Diagnostics_LoggerBase_Log.htm" />
@@ -177,7 +182,37 @@
   </HelpKINode>
   <HelpKINode Title="ResourceHelper.GetResource(Of T) method" Url="html/M_CodeStack_SwEx_Common_Reflection_ResourceHelper_GetResource__1.htm" />
   <HelpKINode Title="ResourceHelper.GetResource&lt;T&gt; method" Url="html/M_CodeStack_SwEx_Common_Reflection_ResourceHelper_GetResource__1.htm" />
+  <HelpKINode Title="SldWorksCommonEx class">
+    <HelpKINode Title="SldWorksCommonEx Class" Url="html/T_SolidWorks_Interop_sldworks_SldWorksCommonEx.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_SldWorksCommonEx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SldWorksCommonEx.GetVersion method" Url="html/Overload_SolidWorks_Interop_sldworks_SldWorksCommonEx_GetVersion.htm" />
+  <HelpKINode Title="SldWorksCommonEx.IsVersionNewerOrEqual method" Url="html/M_SolidWorks_Interop_sldworks_SldWorksCommonEx_IsVersionNewerOrEqual.htm" />
+  <HelpKINode Title="SolidWorks.Interop.sldworks namespace" Url="html/N_SolidWorks_Interop_sldworks.htm" />
+  <HelpKINode Title="SolidWorks.Interop.sldworks.SldWorksCommonEx class" Url="html/T_SolidWorks_Interop_sldworks_SldWorksCommonEx.htm" />
   <HelpKINode Title="SourceImage property" Url="html/P_CodeStack_SwEx_Common_Icons_IconSizeInfo_SourceImage.htm" />
+  <HelpKINode Title="SummaryAttribute class">
+    <HelpKINode Title="SummaryAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_SummaryAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_CodeStack_SwEx_Common_Attributes_SummaryAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SummaryAttribute.SummaryAttribute constructor" Url="html/Overload_CodeStack_SwEx_Common_Attributes_SummaryAttribute__ctor.htm" />
+  <HelpKINode Title="Sw2005 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2006 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2007 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2008 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2009 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2010 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2011 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2012 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2013 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2014 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2015 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2016 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2017 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2018 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2019 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="Sw2020 enumeration member" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  <HelpKINode Title="SwVersion_e enumeration" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
   <HelpKINode Title="TargetSize property" Url="html/P_CodeStack_SwEx_Common_Icons_IconSizeInfo_TargetSize.htm" />
   <HelpKINode Title="TitleAttribute class">
     <HelpKINode Title="TitleAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_TitleAttribute.htm" />

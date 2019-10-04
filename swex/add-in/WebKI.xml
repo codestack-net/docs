@@ -68,6 +68,7 @@
   <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.ConfigurationChangeDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ConfigurationChangeDelegate.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.CustomPropertyModifyData class" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.CustomPropertyModifyDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyDelegate.htm" />
+  <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.DimensionChangeDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DimensionChangeDelegate.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.DocumentSaveDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DocumentSaveDelegate.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.DocumentStateChangedDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DocumentStateChangedDelegate.htm" />
   <HelpKINode Title="CodeStack.SwEx.AddIn.Delegates.EnableMethodDelegate(Of TCmdEnum) delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_EnableMethodDelegate_1.htm" />
@@ -135,6 +136,8 @@
   <HelpKINode Title="DeselectDisable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="DeselectEnable enumeration member" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
   <HelpKINode Title="Destroyed event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Destroyed.htm" />
+  <HelpKINode Title="DimensionChange event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_DimensionChange.htm" />
+  <HelpKINode Title="DimensionChangeDelegate delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DimensionChangeDelegate.htm" />
   <HelpKINode Title="Dispose method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_Dispose.htm" />
   <HelpKINode Title="DocumentHandler class">
     <HelpKINode Title="DocumentHandler Class" Url="html/T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm" />
@@ -149,6 +152,7 @@
   <HelpKINode Title="DocumentHandler.ConfigurationChange event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_ConfigurationChange.htm" />
   <HelpKINode Title="DocumentHandler.CustomPropertyModify event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_CustomPropertyModify.htm" />
   <HelpKINode Title="DocumentHandler.Destroyed event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Destroyed.htm" />
+  <HelpKINode Title="DocumentHandler.DimensionChange event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_DimensionChange.htm" />
   <HelpKINode Title="DocumentHandler.Dispose method" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_Dispose.htm" />
   <HelpKINode Title="DocumentHandler.DocumentHandler constructor" Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler__ctor.htm" />
   <HelpKINode Title="DocumentHandler.Initialized event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Initialized.htm" />

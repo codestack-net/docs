@@ -1,82 +1,91 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="6d76366c-c335-4ee6-9ce9-ce9d5df3cc73" Title="CodeStack.SwEx.Common.Attributes" Url="html/N_CodeStack_SwEx_Common_Attributes.htm">
-    <HelpTOCNode Id="488a80a9-7fb6-44df-8ef1-d1365aafc132" Title="IconAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_IconAttribute.htm">
+  <HelpTOCNode Id="addccd96-f084-4ad0-b5c8-9577838ce1d4" Title="CodeStack.SwEx.Common.Attributes" Url="html/N_CodeStack_SwEx_Common_Attributes.htm">
+    <HelpTOCNode Id="78f0c3cc-a10b-40b1-b460-72c147cf9b35" Title="IconAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_IconAttribute.htm">
       <HelpTOCNode Title="IconAttribute Constructor " Url="html/M_CodeStack_SwEx_Common_Attributes_IconAttribute__ctor.htm" />
-      <HelpTOCNode Id="2c932593-1624-45ee-8f4b-c80f405c2e1b" Title="IconAttribute Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Attributes_IconAttribute.htm">
+      <HelpTOCNode Id="820d4be2-f538-4593-9774-aac687f1adc0" Title="IconAttribute Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Attributes_IconAttribute.htm">
         <HelpTOCNode Title="Icon Property " Url="html/P_CodeStack_SwEx_Common_Attributes_IconAttribute_Icon.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="505e1f43-220a-4a35-b972-4062b9899228" Title="LoggerOptionsAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_LoggerOptionsAttribute.htm">
+    <HelpTOCNode Id="6ffedf53-ddca-4cd4-9ace-89b696d7117a" Title="LoggerOptionsAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_LoggerOptionsAttribute.htm">
       <HelpTOCNode Title="LoggerOptionsAttribute Constructor " Url="html/M_CodeStack_SwEx_Common_Attributes_LoggerOptionsAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4abc80b6-8fb4-4148-8614-3c8e06125ed0" Title="TitleAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_TitleAttribute.htm">
-      <HelpTOCNode Id="c4ce0176-3d02-44f7-b738-ca3ca50575b5" Title="TitleAttribute Constructor " Url="html/Overload_CodeStack_SwEx_Common_Attributes_TitleAttribute__ctor.htm">
+    <HelpTOCNode Id="bc43a840-bc19-416a-bf27-7e416664a5f0" Title="SummaryAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_SummaryAttribute.htm">
+      <HelpTOCNode Id="276f6ae4-1cf6-442f-98ea-c3a7b9dae1da" Title="SummaryAttribute Constructor " Url="html/Overload_CodeStack_SwEx_Common_Attributes_SummaryAttribute__ctor.htm">
+        <HelpTOCNode Title="SummaryAttribute Constructor (String)" Url="html/M_CodeStack_SwEx_Common_Attributes_SummaryAttribute__ctor.htm" />
+        <HelpTOCNode Title="SummaryAttribute Constructor (Type, String)" Url="html/M_CodeStack_SwEx_Common_Attributes_SummaryAttribute__ctor_1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad2eb1d7-9741-4afb-a15c-8c5f758126c5" Title="TitleAttribute Class" Url="html/T_CodeStack_SwEx_Common_Attributes_TitleAttribute.htm">
+      <HelpTOCNode Id="72179c1d-9dbb-41d3-9ea9-b7290be90763" Title="TitleAttribute Constructor " Url="html/Overload_CodeStack_SwEx_Common_Attributes_TitleAttribute__ctor.htm">
         <HelpTOCNode Title="TitleAttribute Constructor (String)" Url="html/M_CodeStack_SwEx_Common_Attributes_TitleAttribute__ctor.htm" />
         <HelpTOCNode Title="TitleAttribute Constructor (Type, String)" Url="html/M_CodeStack_SwEx_Common_Attributes_TitleAttribute__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="7db0e86c-af71-472a-8b4a-228340f62969" Title="CodeStack.SwEx.Common.Base" Url="html/N_CodeStack_SwEx_Common_Base.htm">
-    <HelpTOCNode Id="f45eeec2-295c-441f-adf8-3017b2f6a213" Title="IIconsConverter Interface" Url="html/T_CodeStack_SwEx_Common_Base_IIconsConverter.htm">
-      <HelpTOCNode Id="73befef1-0505-4c8f-89eb-a4e4657e3f2e" Title="IIconsConverter Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Base_IIconsConverter.htm">
+  <HelpTOCNode Id="d0bfaf3d-d229-4794-ab9f-e3841ef56df8" Title="CodeStack.SwEx.Common.Base" Url="html/N_CodeStack_SwEx_Common_Base.htm">
+    <HelpTOCNode Id="65cdb765-70af-4c8a-9102-8f61d15ca992" Title="IIconsConverter Interface" Url="html/T_CodeStack_SwEx_Common_Base_IIconsConverter.htm">
+      <HelpTOCNode Id="37fb5698-4fa2-4d1d-bda1-c2f744955085" Title="IIconsConverter Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Base_IIconsConverter.htm">
         <HelpTOCNode Title="ConvertIcon Method " Url="html/M_CodeStack_SwEx_Common_Base_IIconsConverter_ConvertIcon.htm" />
         <HelpTOCNode Title="ConvertIconsGroup Method " Url="html/M_CodeStack_SwEx_Common_Base_IIconsConverter_ConvertIconsGroup.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="3b988227-41f7-4150-beef-4363808c1026" Title="IModule Interface" Url="html/T_CodeStack_SwEx_Common_Base_IModule.htm">
-      <HelpTOCNode Id="a3872382-abfb-4acf-a289-6a313a49a5e2" Title="IModule Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Base_IModule.htm">
+    <HelpTOCNode Id="f5c76047-818d-46c0-b326-28263d74233c" Title="IModule Interface" Url="html/T_CodeStack_SwEx_Common_Base_IModule.htm">
+      <HelpTOCNode Id="08a47079-60c3-43c2-bfd4-335fd2d54992" Title="IModule Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Base_IModule.htm">
         <HelpTOCNode Title="Logger Property " Url="html/P_CodeStack_SwEx_Common_Base_IModule_Logger.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="807e1bf9-3f84-4abf-938b-7a5432ddeebb" Title="CodeStack.SwEx.Common.Diagnostics" Url="html/N_CodeStack_SwEx_Common_Diagnostics.htm">
-    <HelpTOCNode Id="eeaa0716-9334-4935-90a7-02a5b15856af" Title="ILogger Interface" Url="html/T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm">
-      <HelpTOCNode Id="05591e73-6728-45a8-8235-632a4b0bc334" Title="ILogger Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm">
+  <HelpTOCNode Id="9c74deaf-56b7-4529-827d-b0aade730710" Title="CodeStack.SwEx.Common.Diagnostics" Url="html/N_CodeStack_SwEx_Common_Diagnostics.htm">
+    <HelpTOCNode Id="2e09ec9c-cd63-4d06-b02a-0ef6df6f30ce" Title="ILogger Interface" Url="html/T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm">
+      <HelpTOCNode Id="f254feee-2edd-4e3e-b512-76bd47b52f0b" Title="ILogger Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm">
         <HelpTOCNode Title="Category Property " Url="html/P_CodeStack_SwEx_Common_Diagnostics_ILogger_Category.htm" />
         <HelpTOCNode Title="LogStackTrace Property " Url="html/P_CodeStack_SwEx_Common_Diagnostics_ILogger_LogStackTrace.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e1f54eb3-ce9e-45a0-b8e6-599775cb19e7" Title="ILogger Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm">
-        <HelpTOCNode Id="2b3914a6-43d4-4aa4-9064-77b56a1e70d5" Title="Log Method " Url="html/Overload_CodeStack_SwEx_Common_Diagnostics_ILogger_Log.htm">
+      <HelpTOCNode Id="20ac51b5-6c5b-44ab-a1cc-3e53120b4aae" Title="ILogger Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Diagnostics_ILogger.htm">
+        <HelpTOCNode Id="dcb660b4-64b4-4aa6-8728-c02b5011a862" Title="Log Method " Url="html/Overload_CodeStack_SwEx_Common_Diagnostics_ILogger_Log.htm">
           <HelpTOCNode Title="Log Method (Exception)" Url="html/M_CodeStack_SwEx_Common_Diagnostics_ILogger_Log.htm" />
           <HelpTOCNode Title="Log Method (String)" Url="html/M_CodeStack_SwEx_Common_Diagnostics_ILogger_Log_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="253c3db1-34a1-413f-824b-927a72df8729" Title="LoggerBase Class" Url="html/T_CodeStack_SwEx_Common_Diagnostics_LoggerBase.htm">
+    <HelpTOCNode Id="5120d9d7-6d93-42f3-bfc2-f5656d1cb477" Title="LoggerBase Class" Url="html/T_CodeStack_SwEx_Common_Diagnostics_LoggerBase.htm">
       <HelpTOCNode Title="LoggerBase Constructor " Url="html/M_CodeStack_SwEx_Common_Diagnostics_LoggerBase__ctor.htm" />
-      <HelpTOCNode Id="627b2c13-16f3-41bf-9bbf-7f08b72bc58b" Title="LoggerBase Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Diagnostics_LoggerBase.htm">
+      <HelpTOCNode Id="213698a8-d7ac-40ac-9ab6-0c85141ebc6a" Title="LoggerBase Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Diagnostics_LoggerBase.htm">
         <HelpTOCNode Title="Category Property " Url="html/P_CodeStack_SwEx_Common_Diagnostics_LoggerBase_Category.htm" />
         <HelpTOCNode Title="LogStackTrace Property " Url="html/P_CodeStack_SwEx_Common_Diagnostics_LoggerBase_LogStackTrace.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9d245a5f-0deb-4e23-b2a8-4b496b4260e5" Title="LoggerBase Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Diagnostics_LoggerBase.htm">
-        <HelpTOCNode Id="45095dca-7e91-4c3f-9af0-74597271ece6" Title="Log Method " Url="html/Overload_CodeStack_SwEx_Common_Diagnostics_LoggerBase_Log.htm">
+      <HelpTOCNode Id="8a178736-9d02-467e-a7cf-e7790c453e58" Title="LoggerBase Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Diagnostics_LoggerBase.htm">
+        <HelpTOCNode Id="cc0ad56e-db8d-48ce-9d74-1837f5fb568e" Title="Log Method " Url="html/Overload_CodeStack_SwEx_Common_Diagnostics_LoggerBase_Log.htm">
           <HelpTOCNode Title="Log Method (Exception)" Url="html/M_CodeStack_SwEx_Common_Diagnostics_LoggerBase_Log.htm" />
           <HelpTOCNode Title="Log Method (String)" Url="html/M_CodeStack_SwEx_Common_Diagnostics_LoggerBase_Log_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ParseExceptionLog Method " Url="html/M_CodeStack_SwEx_Common_Diagnostics_LoggerBase_ParseExceptionLog.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d21ae104-5531-4141-90b5-a9db7add7386" Title="LoggerFactory Class" Url="html/T_CodeStack_SwEx_Common_Diagnostics_LoggerFactory.htm">
-      <HelpTOCNode Id="d0ec3a90-49a9-4e08-97c8-04e98f6c8d8e" Title="LoggerFactory Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Diagnostics_LoggerFactory.htm">
+    <HelpTOCNode Id="a6578d8f-19c8-44a9-9d50-8c87b1236a5f" Title="LoggerFactory Class" Url="html/T_CodeStack_SwEx_Common_Diagnostics_LoggerFactory.htm">
+      <HelpTOCNode Id="a7a7a11c-c887-40f9-aa1a-04660dc837b9" Title="LoggerFactory Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Diagnostics_LoggerFactory.htm">
         <HelpTOCNode Title="Create Method " Url="html/M_CodeStack_SwEx_Common_Diagnostics_LoggerFactory_Create.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="LoggerType_e Enumeration" Url="html/T_CodeStack_SwEx_Common_Diagnostics_LoggerType_e.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="0ffbeb8d-f580-4060-8a28-bab7ebcb7bc0" Title="CodeStack.SwEx.Common.Exceptions" Url="html/N_CodeStack_SwEx_Common_Exceptions.htm">
-    <HelpTOCNode Id="b8615b82-489c-482f-90b0-99cf2d9568d3" Title="IconTransparencyMismatchException Class" Url="html/T_CodeStack_SwEx_Common_Exceptions_IconTransparencyMismatchException.htm">
+  <HelpTOCNode Id="7d753918-f32b-4b7c-9fba-79c965271b68" Title="CodeStack.SwEx.Common.Enums" Url="html/N_CodeStack_SwEx_Common_Enums.htm">
+    <HelpTOCNode Title="SwVersion_e Enumeration" Url="html/T_CodeStack_SwEx_Common_Enums_SwVersion_e.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="a1ddb4eb-0a9b-41c2-bf3e-6a4bc4014ab0" Title="CodeStack.SwEx.Common.Exceptions" Url="html/N_CodeStack_SwEx_Common_Exceptions.htm">
+    <HelpTOCNode Id="2d32a81e-a4f9-4ad8-b719-ea61bbf91b21" Title="IconTransparencyMismatchException Class" Url="html/T_CodeStack_SwEx_Common_Exceptions_IconTransparencyMismatchException.htm">
       <HelpTOCNode Title="IconTransparencyMismatchException Constructor " Url="html/M_CodeStack_SwEx_Common_Exceptions_IconTransparencyMismatchException__ctor.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="e335a431-ff59-412c-a629-0e9e8bba8500" Title="CodeStack.SwEx.Common.Icons" Url="html/N_CodeStack_SwEx_Common_Icons.htm">
-    <HelpTOCNode Id="f66e7bb6-ee0a-44f4-bb7a-c5fe602d2640" Title="IconsConverter Class" Url="html/T_CodeStack_SwEx_Common_Icons_IconsConverter.htm">
-      <HelpTOCNode Id="4ec75368-62f5-481e-ba18-a3a2341bdc3d" Title="IconsConverter Constructor " Url="html/Overload_CodeStack_SwEx_Common_Icons_IconsConverter__ctor.htm">
+  <HelpTOCNode Id="1c1eb9e6-1ac5-43b8-92c6-873c336767dc" Title="CodeStack.SwEx.Common.Icons" Url="html/N_CodeStack_SwEx_Common_Icons.htm">
+    <HelpTOCNode Id="6e71ef28-b3e4-47ab-96f3-24f6c320f3fd" Title="IconsConverter Class" Url="html/T_CodeStack_SwEx_Common_Icons_IconsConverter.htm">
+      <HelpTOCNode Id="9b3a0e16-7b5a-4888-879d-d45ab6743a21" Title="IconsConverter Constructor " Url="html/Overload_CodeStack_SwEx_Common_Icons_IconsConverter__ctor.htm">
         <HelpTOCNode Title="IconsConverter Constructor " Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter__ctor.htm" />
         <HelpTOCNode Title="IconsConverter Constructor (String, Boolean)" Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8c55cdac-b954-440d-a69b-efad91797e93" Title="IconsConverter Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Icons_IconsConverter.htm">
+      <HelpTOCNode Id="3ee82b7d-4f60-4ab2-8c3d-63b06574e15c" Title="IconsConverter Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Icons_IconsConverter.htm">
         <HelpTOCNode Title="ConvertIcon Method " Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ConvertIcon.htm" />
         <HelpTOCNode Title="ConvertIconsGroup Method " Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_ConvertIconsGroup.htm" />
         <HelpTOCNode Title="Dispose Method " Url="html/M_CodeStack_SwEx_Common_Icons_IconsConverter_Dispose.htm" />
@@ -84,65 +93,76 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="IconsConverter.ColorReplacerDelegate Delegate" Url="html/T_CodeStack_SwEx_Common_Icons_IconsConverter_ColorReplacerDelegate.htm" />
-    <HelpTOCNode Id="1fdeea44-5082-4e3f-8bb8-d885d1c2013b" Title="IconSizeInfo Class" Url="html/T_CodeStack_SwEx_Common_Icons_IconSizeInfo.htm">
+    <HelpTOCNode Id="bf113511-a80d-4774-b8a5-e469ceda2abb" Title="IconSizeInfo Class" Url="html/T_CodeStack_SwEx_Common_Icons_IconSizeInfo.htm">
       <HelpTOCNode Title="IconSizeInfo Constructor " Url="html/M_CodeStack_SwEx_Common_Icons_IconSizeInfo__ctor.htm" />
-      <HelpTOCNode Id="12965cac-6542-4f00-bd44-71422955e5dd" Title="IconSizeInfo Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Icons_IconSizeInfo.htm">
+      <HelpTOCNode Id="dfef5d4b-2295-4a77-8371-462371a8f103" Title="IconSizeInfo Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Icons_IconSizeInfo.htm">
         <HelpTOCNode Title="Name Property " Url="html/P_CodeStack_SwEx_Common_Icons_IconSizeInfo_Name.htm" />
         <HelpTOCNode Title="SourceImage Property " Url="html/P_CodeStack_SwEx_Common_Icons_IconSizeInfo_SourceImage.htm" />
         <HelpTOCNode Title="TargetSize Property " Url="html/P_CodeStack_SwEx_Common_Icons_IconSizeInfo_TargetSize.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="486475b2-f4b9-4639-a2f3-85cecbb3d28e" Title="IconSizeInfo Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Icons_IconSizeInfo.htm">
+      <HelpTOCNode Id="48a3ce00-8bf9-4081-ae02-35d385785379" Title="IconSizeInfo Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Icons_IconSizeInfo.htm">
         <HelpTOCNode Title="CreateFileName Method " Url="html/M_CodeStack_SwEx_Common_Icons_IconSizeInfo_CreateFileName.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0d69bd3d-bb64-43ab-8a2b-c88f6fc4d9cf" Title="IIcon Interface" Url="html/T_CodeStack_SwEx_Common_Icons_IIcon.htm">
-      <HelpTOCNode Id="d3cb02c2-a9aa-44af-b84b-7b071704a026" Title="IIcon Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Icons_IIcon.htm">
+    <HelpTOCNode Id="67516ae9-ac83-45ae-91c9-5bf1fc1f6a3b" Title="IIcon Interface" Url="html/T_CodeStack_SwEx_Common_Icons_IIcon.htm">
+      <HelpTOCNode Id="b25dce38-bb06-471d-9966-3c54f8b644bf" Title="IIcon Properties" Url="html/Properties_T_CodeStack_SwEx_Common_Icons_IIcon.htm">
         <HelpTOCNode Title="TransparencyKey Property " Url="html/P_CodeStack_SwEx_Common_Icons_IIcon_TransparencyKey.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="554a8e4a-2ecb-4938-8af5-49f8505f3290" Title="IIcon Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Icons_IIcon.htm">
+      <HelpTOCNode Id="2340028b-41df-4edf-b87e-f7b3006d0442" Title="IIcon Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Icons_IIcon.htm">
         <HelpTOCNode Title="GetHighResolutionIconSizes Method " Url="html/M_CodeStack_SwEx_Common_Icons_IIcon_GetHighResolutionIconSizes.htm" />
         <HelpTOCNode Title="GetIconSizes Method " Url="html/M_CodeStack_SwEx_Common_Icons_IIcon_GetIconSizes.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="25b1208c-3c23-41e7-8e68-abef0fa83f06" Title="CodeStack.SwEx.Common.Reflection" Url="html/N_CodeStack_SwEx_Common_Reflection.htm">
-    <HelpTOCNode Id="d50dfa66-beb7-4d6e-96b2-2d79eb58fa5b" Title="AssemblyExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_AssemblyExtension.htm">
-      <HelpTOCNode Id="f7b27dca-d6f9-493d-913f-a24e14177bf8" Title="AssemblyExtension Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_AssemblyExtension.htm">
+  <HelpTOCNode Id="49f05de9-ea15-4e54-955a-d76011eab10a" Title="CodeStack.SwEx.Common.Reflection" Url="html/N_CodeStack_SwEx_Common_Reflection.htm">
+    <HelpTOCNode Id="21d91f09-ffc6-4e4e-b8b9-e2446ce87551" Title="AssemblyExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_AssemblyExtension.htm">
+      <HelpTOCNode Id="8164151a-5403-4d98-87d7-e74c701b2625" Title="AssemblyExtension Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_AssemblyExtension.htm">
         <HelpTOCNode Title="TryGetAttribute(TAtt) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_AssemblyExtension_TryGetAttribute__1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="62df0667-3ded-4380-8c24-4d7e691ae639" Title="EnumExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_EnumExtension.htm">
-      <HelpTOCNode Id="020b80b4-23c1-4c85-ac9e-a8fc5afe41b4" Title="EnumExtension Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_EnumExtension.htm">
+    <HelpTOCNode Id="f37f238d-983f-4fc8-b479-9c6b6be862af" Title="EnumExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_EnumExtension.htm">
+      <HelpTOCNode Id="397fae86-6bf5-474c-ace5-3f2f7ee66a9e" Title="EnumExtension Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_EnumExtension.htm">
         <HelpTOCNode Title="GetAttribute(TAtt) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_EnumExtension_GetAttribute__1.htm" />
-        <HelpTOCNode Id="f756c872-e927-4bb8-a663-29d60749ec57" Title="TryGetAttribute Method " Url="html/Overload_CodeStack_SwEx_Common_Reflection_EnumExtension_TryGetAttribute.htm">
+        <HelpTOCNode Id="e736862a-8fba-46d6-8d44-46d41ee0d20d" Title="TryGetAttribute Method " Url="html/Overload_CodeStack_SwEx_Common_Reflection_EnumExtension_TryGetAttribute.htm">
           <HelpTOCNode Title="TryGetAttribute(TAtt) Method (Enum)" Url="html/M_CodeStack_SwEx_Common_Reflection_EnumExtension_TryGetAttribute__1.htm" />
           <HelpTOCNode Title="TryGetAttribute(TAtt) Method (Enum, Action(TAtt))" Url="html/M_CodeStack_SwEx_Common_Reflection_EnumExtension_TryGetAttribute__1_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="91f440e2-0ac7-4160-883a-816f6df330f9" Title="MemberInfoExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_MemberInfoExtension.htm">
-      <HelpTOCNode Id="c6df0377-2937-492f-8ee1-b1e6d7a019e7" Title="MemberInfoExtension Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_MemberInfoExtension.htm">
+    <HelpTOCNode Id="6f729734-2867-4a97-95c6-5de5267406e6" Title="MemberInfoExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_MemberInfoExtension.htm">
+      <HelpTOCNode Id="67cd81ac-03bb-4afc-8707-be3e2b2d78c4" Title="MemberInfoExtension Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_MemberInfoExtension.htm">
         <HelpTOCNode Title="TryGetAttribute(TAtt) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_MemberInfoExtension_TryGetAttribute__1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b0a1ab9f-aa95-4a3b-9d23-7f3deb533943" Title="ResourceHelper Class" Url="html/T_CodeStack_SwEx_Common_Reflection_ResourceHelper.htm">
-      <HelpTOCNode Id="041a3031-582b-4a45-bb82-db4a35354f71" Title="ResourceHelper Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_ResourceHelper.htm">
+    <HelpTOCNode Id="fb68a52a-d5c2-4a1f-91dd-aeebe2a75234" Title="ResourceHelper Class" Url="html/T_CodeStack_SwEx_Common_Reflection_ResourceHelper.htm">
+      <HelpTOCNode Id="b1b952ec-b500-4e74-bfd9-ee33574c3b05" Title="ResourceHelper Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_ResourceHelper.htm">
         <HelpTOCNode Title="GetResource(T) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_ResourceHelper_GetResource__1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0fdbe197-2e9c-452c-9b07-3231d82fad9a" Title="TypeExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_TypeExtension.htm">
-      <HelpTOCNode Id="01a7fa01-a7ef-48d6-9cae-9707ebeaf35b" Title="TypeExtension Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_TypeExtension.htm">
+    <HelpTOCNode Id="4b179b8e-fed5-4888-b650-d70b71bb270f" Title="TypeExtension Class" Url="html/T_CodeStack_SwEx_Common_Reflection_TypeExtension.htm">
+      <HelpTOCNode Id="0c0462ae-c326-496e-a5f5-6cad81b194fe" Title="TypeExtension Methods" Url="html/Methods_T_CodeStack_SwEx_Common_Reflection_TypeExtension.htm">
         <HelpTOCNode Title="GetArgumentsOfGenericType Method " Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_GetArgumentsOfGenericType.htm" />
         <HelpTOCNode Title="GetAttribute(TAtt) Method " Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_GetAttribute__1.htm" />
         <HelpTOCNode Title="GetProgId Method " Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_GetProgId.htm" />
         <HelpTOCNode Title="IsAssignableToGenericType Method " Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_IsAssignableToGenericType.htm" />
         <HelpTOCNode Title="IsComVisible Method " Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_IsComVisible.htm" />
         <HelpTOCNode Title="TryFindGenericType Method " Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_TryFindGenericType.htm" />
-        <HelpTOCNode Id="bef12bdd-b6c4-4cf3-911a-aaa278616ea4" Title="TryGetAttribute Method " Url="html/Overload_CodeStack_SwEx_Common_Reflection_TypeExtension_TryGetAttribute.htm">
+        <HelpTOCNode Id="f36e2952-54ab-4fa8-878b-56e1da0dc7e3" Title="TryGetAttribute Method " Url="html/Overload_CodeStack_SwEx_Common_Reflection_TypeExtension_TryGetAttribute.htm">
           <HelpTOCNode Title="TryGetAttribute(TAtt) Method (Type)" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_TryGetAttribute__1.htm" />
           <HelpTOCNode Title="TryGetAttribute(TAtt) Method (Type, Action(TAtt))" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_TryGetAttribute__1_1.htm" />
           <HelpTOCNode Title="TryGetAttribute(TAtt) Method (Type, TAtt)" Url="html/M_CodeStack_SwEx_Common_Reflection_TypeExtension_TryGetAttribute__1_2.htm" />
         </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="805cd560-d9b9-41be-8cbe-d21c3e86b504" Title="SolidWorks.Interop.sldworks" Url="html/N_SolidWorks_Interop_sldworks.htm">
+    <HelpTOCNode Id="778b66fd-448f-4b06-9b20-88b59f00b24f" Title="SldWorksCommonEx Class" Url="html/T_SolidWorks_Interop_sldworks_SldWorksCommonEx.htm">
+      <HelpTOCNode Id="c3f97459-7b76-4710-af26-05fa6959e38a" Title="SldWorksCommonEx Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_SldWorksCommonEx.htm">
+        <HelpTOCNode Id="ec26cd47-0048-4d3a-8503-01e0c865819b" Title="GetVersion Method " Url="html/Overload_SolidWorks_Interop_sldworks_SldWorksCommonEx_GetVersion.htm">
+          <HelpTOCNode Title="GetVersion Method (ISldWorks)" Url="html/M_SolidWorks_Interop_sldworks_SldWorksCommonEx_GetVersion.htm" />
+          <HelpTOCNode Title="GetVersion Method (ISldWorks, Int32, Int32)" Url="html/M_SolidWorks_Interop_sldworks_SldWorksCommonEx_GetVersion_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IsVersionNewerOrEqual Method " Url="html/M_SolidWorks_Interop_sldworks_SldWorksCommonEx_IsVersionNewerOrEqual.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>

@@ -2,7 +2,7 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome to the SwEx.AddIn" Url="html/welcome.htm" />
-  <HelpTOCNode Id="04b07c7c-8119-454e-bed7-8e4e657f745a" Title="Version History" Url="html/version-history.htm">
+  <HelpTOCNode Id="209b4b48-c344-4a4d-8a18-fb8610f340f8" Title="Version History" Url="html/version-history.htm">
     <HelpTOCNode Title="Version 0.1.0" Url="html/v0-1-0.htm" />
     <HelpTOCNode Title="Version 0.2.2" Url="html/v0-2-2.htm" />
     <HelpTOCNode Title="Version 0.3.0" Url="html/v0-3-0.htm" />
@@ -13,15 +13,16 @@
     <HelpTOCNode Title="Version 0.7.5" Url="html/v0-7-5.htm" />
     <HelpTOCNode Title="Version 0.7.6" Url="html/v0-7-6.htm" />
     <HelpTOCNode Title="Version 0.8.0" Url="html/v0-8-0.htm" />
+    <HelpTOCNode Title="Version 0.8.1" Url="html/v0-8-1.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="f0370802-5de3-41c9-ba6d-f0302b72e163" Title="CodeStack.SwEx.AddIn" Url="html/N_CodeStack_SwEx_AddIn.htm">
-    <HelpTOCNode Id="b262f2ac-5a0c-4330-a380-15170fc91783" Title="SwAddInEx Class" Url="html/T_CodeStack_SwEx_AddIn_SwAddInEx.htm">
-      <HelpTOCNode Id="a1da5aa4-ef56-4356-a909-17af9a039c12" Title="SwAddInEx Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_SwAddInEx.htm">
+  <HelpTOCNode Id="195fef63-0b3a-4e29-82d0-9a287aa27722" Title="CodeStack.SwEx.AddIn" Url="html/N_CodeStack_SwEx_AddIn.htm">
+    <HelpTOCNode Id="82055aa8-9553-45ff-a16d-3dd15208b757" Title="SwAddInEx Class" Url="html/T_CodeStack_SwEx_AddIn_SwAddInEx.htm">
+      <HelpTOCNode Id="3bd94569-59b5-4716-80b8-39760c2e616b" Title="SwAddInEx Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_SwAddInEx.htm">
         <HelpTOCNode Title="AddInCookie Property " Url="html/P_CodeStack_SwEx_AddIn_SwAddInEx_AddInCookie.htm" />
         <HelpTOCNode Title="App Property " Url="html/P_CodeStack_SwEx_AddIn_SwAddInEx_App.htm" />
         <HelpTOCNode Title="CmdMgr Property " Url="html/P_CodeStack_SwEx_AddIn_SwAddInEx_CmdMgr.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="32f4f723-b9fd-4e1a-8f83-8c2bd7907dbe" Title="SwAddInEx Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_SwAddInEx.htm">
+      <HelpTOCNode Id="a8bc2c0c-b695-46c2-b261-b3ea33f08e9e" Title="SwAddInEx Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_SwAddInEx.htm">
         <HelpTOCNode Title="AddCommandGroup(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddCommandGroup__1.htm" />
         <HelpTOCNode Title="AddContextMenu(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_AddContextMenu__1.htm" />
         <HelpTOCNode Title="OnConnect Method " Url="html/M_CodeStack_SwEx_AddIn_SwAddInEx_OnConnect.htm" />
@@ -29,50 +30,50 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="534c4d13-e777-43a6-a995-b14d25fe3ce5" Title="CodeStack.SwEx.AddIn.Attributes" Url="html/N_CodeStack_SwEx_AddIn_Attributes.htm">
-    <HelpTOCNode Id="e84c6beb-cf8e-454a-a3d6-aba4b501ee16" Title="AutoRegisterAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute.htm">
+  <HelpTOCNode Id="053dfbf1-8728-41e0-8134-13b6df7c51ca" Title="CodeStack.SwEx.AddIn.Attributes" Url="html/N_CodeStack_SwEx_AddIn_Attributes.htm">
+    <HelpTOCNode Id="7211ea83-d067-47bc-8dec-695289020e1c" Title="AutoRegisterAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute.htm">
       <HelpTOCNode Title="AutoRegisterAttribute Constructor " Url="html/M_CodeStack_SwEx_AddIn_Attributes_AutoRegisterAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="184fe410-a33e-4790-94a6-25357089311e" Title="CommandGroupInfoAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute.htm">
-      <HelpTOCNode Id="2aeed8e5-03f1-42be-b321-a5e799101440" Title="CommandGroupInfoAttribute Constructor " Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm">
+    <HelpTOCNode Id="1dabadf2-4097-4d15-8fe8-16dc28426c99" Title="CommandGroupInfoAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute.htm">
+      <HelpTOCNode Id="ce82a393-8eb7-45f0-b518-74713e62ea1b" Title="CommandGroupInfoAttribute Constructor " Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm">
         <HelpTOCNode Title="CommandGroupInfoAttribute Constructor (Int32)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor.htm" />
         <HelpTOCNode Title="CommandGroupInfoAttribute Constructor (Type)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor_2.htm" />
         <HelpTOCNode Title="CommandGroupInfoAttribute Constructor (Int32, Type)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandGroupInfoAttribute__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9b7524ab-2882-4074-86bd-5b154c152401" Title="CommandIconAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute.htm">
-      <HelpTOCNode Id="c8beb453-72c7-4b4a-b17b-fbb567a1536d" Title="CommandIconAttribute Constructor " Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute__ctor.htm">
+    <HelpTOCNode Id="19b59d91-5fbf-4946-8d01-db766c27e34d" Title="CommandIconAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute.htm">
+      <HelpTOCNode Id="d12a1905-89f9-427a-bfcb-dfb64df66c6e" Title="CommandIconAttribute Constructor " Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute__ctor.htm">
         <HelpTOCNode Title="CommandIconAttribute Constructor (Type, String)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute__ctor.htm" />
         <HelpTOCNode Title="CommandIconAttribute Constructor (Type, String, String)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute__ctor_1.htm" />
         <HelpTOCNode Title="CommandIconAttribute Constructor (Type, String, String, String, String, String, String)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandIconAttribute__ctor_2.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0b47923c-097e-4882-ab04-cf4402dec0b3" Title="CommandItemInfoAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute.htm">
-      <HelpTOCNode Id="60428239-a5a9-4207-8044-d085e4c7572e" Title="CommandItemInfoAttribute Constructor " Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm">
+    <HelpTOCNode Id="b500b2bd-cec4-46a8-9102-8c1e4d4d749a" Title="CommandItemInfoAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute.htm">
+      <HelpTOCNode Id="c6231472-69d1-442f-96c2-9ffc695d0d19" Title="CommandItemInfoAttribute Constructor " Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm">
         <HelpTOCNode Title="CommandItemInfoAttribute Constructor (swWorkspaceTypes_e)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor.htm" />
         <HelpTOCNode Title="CommandItemInfoAttribute Constructor (Boolean, Boolean, swWorkspaceTypes_e)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor_1.htm" />
         <HelpTOCNode Title="CommandItemInfoAttribute Constructor (Boolean, Boolean, swWorkspaceTypes_e, Boolean, swCommandTabButtonTextDisplay_e)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandItemInfoAttribute__ctor_2.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="bce64b5c-adca-42bb-924d-5836af13d543" Title="CommandSpacerAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute.htm">
+    <HelpTOCNode Id="1029b3a7-2737-4fee-b6c3-95deb0e51b77" Title="CommandSpacerAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute.htm">
       <HelpTOCNode Title="CommandSpacerAttribute Constructor " Url="html/M_CodeStack_SwEx_AddIn_Attributes_CommandSpacerAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="3628b11d-fc9c-49bc-a0aa-13e41abc521f" Title="TaskPaneIconAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TaskPaneIconAttribute.htm">
-      <HelpTOCNode Id="43d1a595-ada0-41fa-b98f-d1e1f4ea82f1" Title="TaskPaneIconAttribute Constructor " Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_TaskPaneIconAttribute__ctor.htm">
+    <HelpTOCNode Id="fb424c67-3b5a-480e-8fa1-82f7fbb806ff" Title="TaskPaneIconAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TaskPaneIconAttribute.htm">
+      <HelpTOCNode Id="300565cc-af9b-47a8-abea-d4b88272332c" Title="TaskPaneIconAttribute Constructor " Url="html/Overload_CodeStack_SwEx_AddIn_Attributes_TaskPaneIconAttribute__ctor.htm">
         <HelpTOCNode Title="TaskPaneIconAttribute Constructor (Type, String)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_TaskPaneIconAttribute__ctor.htm" />
         <HelpTOCNode Title="TaskPaneIconAttribute Constructor (Type, String, String, String, String, String, String)" Url="html/M_CodeStack_SwEx_AddIn_Attributes_TaskPaneIconAttribute__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6dbfea21-3156-46dc-ae49-ca70b8c3c7d8" Title="TaskPaneStandardButtonAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TaskPaneStandardButtonAttribute.htm">
+    <HelpTOCNode Id="804feb15-f466-4ba2-8ced-25ad096aeddc" Title="TaskPaneStandardButtonAttribute Class" Url="html/T_CodeStack_SwEx_AddIn_Attributes_TaskPaneStandardButtonAttribute.htm">
       <HelpTOCNode Title="TaskPaneStandardButtonAttribute Constructor " Url="html/M_CodeStack_SwEx_AddIn_Attributes_TaskPaneStandardButtonAttribute__ctor.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="152e7a99-9563-44b9-b224-9598a46a0731" Title="CodeStack.SwEx.AddIn.Base" Url="html/N_CodeStack_SwEx_AddIn_Base.htm">
-    <HelpTOCNode Id="d6718cac-7a68-4324-8eef-4355a82b2635" Title="IComStorage Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IComStorage.htm">
-      <HelpTOCNode Id="f912c553-cf38-4834-84e2-af398565556a" Title="IComStorage Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IComStorage.htm">
+  <HelpTOCNode Id="56a08327-daa4-4f06-a47f-1e6fd7e08cd9" Title="CodeStack.SwEx.AddIn.Base" Url="html/N_CodeStack_SwEx_AddIn_Base.htm">
+    <HelpTOCNode Id="3eb4f895-19ff-47d7-beff-9c82577830a8" Title="IComStorage Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IComStorage.htm">
+      <HelpTOCNode Id="d5e2f2f1-8abe-43ba-99bd-dc3d447e75e6" Title="IComStorage Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IComStorage.htm">
         <HelpTOCNode Title="Storage Property " Url="html/P_CodeStack_SwEx_AddIn_Base_IComStorage_Storage.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="245ebdda-ab29-42dd-b3a7-48c660aa4fcc" Title="IComStorage Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Base_IComStorage.htm">
+      <HelpTOCNode Id="e6035a83-dbac-4fa3-877f-2b7a8d961da1" Title="IComStorage Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Base_IComStorage.htm">
         <HelpTOCNode Title="GetSubStorageNames Method " Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_GetSubStorageNames.htm" />
         <HelpTOCNode Title="GetSubStreamNames Method " Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_GetSubStreamNames.htm" />
         <HelpTOCNode Title="RemoveSubElement Method " Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_RemoveSubElement.htm" />
@@ -80,29 +81,29 @@
         <HelpTOCNode Title="TryOpenStream Method " Url="html/M_CodeStack_SwEx_AddIn_Base_IComStorage_TryOpenStream.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1e06a66a-d6de-454a-9275-32262feee975" Title="IDocumentHandler Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IDocumentHandler.htm">
-      <HelpTOCNode Id="8f1e7776-d19d-466c-846a-78501decd2e8" Title="IDocumentHandler Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Base_IDocumentHandler.htm">
+    <HelpTOCNode Id="dbecdf84-746e-4050-999f-70172f8e487b" Title="IDocumentHandler Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IDocumentHandler.htm">
+      <HelpTOCNode Id="527ed01c-d2d6-4497-b6ed-586bcf5dd2c9" Title="IDocumentHandler Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Base_IDocumentHandler.htm">
         <HelpTOCNode Title="Init Method " Url="html/M_CodeStack_SwEx_AddIn_Base_IDocumentHandler_Init.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="27031240-8a07-4aa8-ba61-594fe88d8078" Title="IDocumentsHandler(TDocHandler) Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1.htm">
-      <HelpTOCNode Id="3c90dedf-c361-4f56-b663-07de9542b7c7" Title="IDocumentsHandler(TDocHandler) Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1.htm">
+    <HelpTOCNode Id="75481f95-d4af-4546-bab2-9675444fe17c" Title="IDocumentsHandler(TDocHandler) Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1.htm">
+      <HelpTOCNode Id="15da2e72-e3c0-46da-9a4f-26d403746548" Title="IDocumentsHandler(TDocHandler) Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1.htm">
         <HelpTOCNode Title="Item Property " Url="html/P_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1_Item.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="f6ca6d1d-b53c-4297-b87d-7de88e4bf2d9" Title="IDocumentsHandler(TDocHandler) Events" Url="html/Events_T_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1.htm">
+      <HelpTOCNode Id="e4635337-9b7e-4e41-8c31-4c7466e664aa" Title="IDocumentsHandler(TDocHandler) Events" Url="html/Events_T_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1.htm">
         <HelpTOCNode Title="HandlerCreated Event" Url="html/E_CodeStack_SwEx_AddIn_Base_IDocumentsHandler_1_HandlerCreated.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="84cb7d11-7766-4f7d-8e9d-488d56471fc5" Title="ISwAddInEx Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm">
+    <HelpTOCNode Id="d4acf1d7-af57-43a1-9ad8-20dc81c84a0c" Title="ISwAddInEx Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm">
       <HelpTOCNode Title="ISwAddInEx Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm" />
-      <HelpTOCNode Id="3cc05be1-d707-4b94-a902-840fdaba7a2c" Title="ISwAddInEx Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm">
+      <HelpTOCNode Id="660cb576-0107-493f-8a7e-bdbf1e61944c" Title="ISwAddInEx Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Base_ISwAddInEx.htm">
         <HelpTOCNode Title="AddCommandGroup(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddCommandGroup__1.htm" />
         <HelpTOCNode Title="AddContextMenu(TCmdEnum) Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_AddContextMenu__1.htm" />
-        <HelpTOCNode Id="240de2a9-de57-4288-b739-403967fc04ee" Title="CreateDocumentsHandler Method " Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler.htm">
+        <HelpTOCNode Id="24956109-73df-478a-bb39-3e3ebdd32630" Title="CreateDocumentsHandler Method " Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler.htm">
           <HelpTOCNode Title="CreateDocumentsHandler(TDocHandler) Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler__1.htm" />
           <HelpTOCNode Title="CreateDocumentsHandler Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateDocumentsHandler.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="540dc252-191d-4d7b-b1c6-0d88683a3f70" Title="CreateTaskPane Method " Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateTaskPane.htm">
+        <HelpTOCNode Id="168c7975-368d-4596-869c-4b295d3e153d" Title="CreateTaskPane Method " Url="html/Overload_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateTaskPane.htm">
           <HelpTOCNode Title="CreateTaskPane(TControl) Method (TControl)" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateTaskPane__1.htm" />
           <HelpTOCNode Title="CreateTaskPane(TControl, TCmdEnum) Method (Action(TCmdEnum), TControl)" Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_CreateTaskPane__2.htm" />
         </HelpTOCNode>
@@ -110,36 +111,37 @@
         <HelpTOCNode Title="OnDisconnect Method " Url="html/M_CodeStack_SwEx_AddIn_Base_ISwAddInEx_OnDisconnect.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="07801d99-3c56-4e63-8639-3b8d8f3cc1b0" Title="IThirdPartyStoreHandler Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IThirdPartyStoreHandler.htm">
-      <HelpTOCNode Id="faea266b-527b-42ca-91b6-29d468160db5" Title="IThirdPartyStoreHandler Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IThirdPartyStoreHandler.htm">
+    <HelpTOCNode Id="fe93cdaa-ea5c-4a10-9d23-be40822d1d3c" Title="IThirdPartyStoreHandler Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IThirdPartyStoreHandler.htm">
+      <HelpTOCNode Id="06d2a3d8-811d-4f74-bc00-efd81d118d9e" Title="IThirdPartyStoreHandler Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IThirdPartyStoreHandler.htm">
         <HelpTOCNode Title="Storage Property " Url="html/P_CodeStack_SwEx_AddIn_Base_IThirdPartyStoreHandler_Storage.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="85a7e1b1-b7d1-4125-81ed-5154008b365a" Title="IThirdPartyStreamHandler Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IThirdPartyStreamHandler.htm">
-      <HelpTOCNode Id="8ffee1b7-10e8-477e-86b3-d2f48cae9525" Title="IThirdPartyStreamHandler Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IThirdPartyStreamHandler.htm">
+    <HelpTOCNode Id="232cdaa9-1cc1-4026-827e-3840eae00a54" Title="IThirdPartyStreamHandler Interface" Url="html/T_CodeStack_SwEx_AddIn_Base_IThirdPartyStreamHandler.htm">
+      <HelpTOCNode Id="b3fee490-da0d-49c1-9e54-1f3d4b435506" Title="IThirdPartyStreamHandler Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Base_IThirdPartyStreamHandler.htm">
         <HelpTOCNode Title="Stream Property " Url="html/P_CodeStack_SwEx_AddIn_Base_IThirdPartyStreamHandler_Stream.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="5591bd4b-4329-409f-88b1-9db4ecdd61cd" Title="CodeStack.SwEx.AddIn.Core" Url="html/N_CodeStack_SwEx_AddIn_Core.htm">
-    <HelpTOCNode Id="c2e296dc-39fc-4e64-adc8-af069b6b436f" Title="DocumentHandler Class" Url="html/T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm">
+  <HelpTOCNode Id="83ee8cd7-685d-46aa-af6c-1fdb0379d15e" Title="CodeStack.SwEx.AddIn.Core" Url="html/N_CodeStack_SwEx_AddIn_Core.htm">
+    <HelpTOCNode Id="8ccdfd9b-b591-4a9c-b6e0-0d1c4453d919" Title="DocumentHandler Class" Url="html/T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm">
       <HelpTOCNode Title="DocumentHandler Constructor " Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler__ctor.htm" />
-      <HelpTOCNode Id="588c3708-f74a-4aeb-9378-ea2570be3040" Title="DocumentHandler Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm">
+      <HelpTOCNode Id="5ed85e9a-ae13-497d-bfd2-af2461ca2e2a" Title="DocumentHandler Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm">
         <HelpTOCNode Title="App Property " Url="html/P_CodeStack_SwEx_AddIn_Core_DocumentHandler_App.htm" />
         <HelpTOCNode Title="Model Property " Url="html/P_CodeStack_SwEx_AddIn_Core_DocumentHandler_Model.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2addedcd-e398-4815-b7d9-b6e47ab50d46" Title="DocumentHandler Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm">
+      <HelpTOCNode Id="51883212-e4a5-41f1-8ade-58fbbc20c86b" Title="DocumentHandler Methods" Url="html/Methods_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm">
         <HelpTOCNode Title="Dispose Method " Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_Dispose.htm" />
         <HelpTOCNode Title="OnActivate Method " Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnActivate.htm" />
         <HelpTOCNode Title="OnDestroy Method " Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnDestroy.htm" />
         <HelpTOCNode Title="OnInit Method " Url="html/M_CodeStack_SwEx_AddIn_Core_DocumentHandler_OnInit.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ad7f03bb-cd56-4660-90b4-87b485103381" Title="DocumentHandler Events" Url="html/Events_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm">
+      <HelpTOCNode Id="91505671-54ab-42d0-af5e-1161e564d8b5" Title="DocumentHandler Events" Url="html/Events_T_CodeStack_SwEx_AddIn_Core_DocumentHandler.htm">
         <HelpTOCNode Title="Access3rdPartyData Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Access3rdPartyData.htm" />
         <HelpTOCNode Title="Activated Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Activated.htm" />
         <HelpTOCNode Title="ConfigurationChange Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_ConfigurationChange.htm" />
         <HelpTOCNode Title="CustomPropertyModify Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_CustomPropertyModify.htm" />
         <HelpTOCNode Title="Destroyed Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Destroyed.htm" />
+        <HelpTOCNode Title="DimensionChange Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_DimensionChange.htm" />
         <HelpTOCNode Title="Initialized Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Initialized.htm" />
         <HelpTOCNode Title="ItemModify Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_ItemModify.htm" />
         <HelpTOCNode Title="Rebuild Event" Url="html/E_CodeStack_SwEx_AddIn_Core_DocumentHandler_Rebuild.htm" />
@@ -148,11 +150,11 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="588ca151-5bea-457c-806a-ca145e033bb7" Title="CodeStack.SwEx.AddIn.Delegates" Url="html/N_CodeStack_SwEx_AddIn_Delegates.htm">
+  <HelpTOCNode Id="fcd1ee7d-d827-4cee-8ed7-6b0341bdeba3" Title="CodeStack.SwEx.AddIn.Delegates" Url="html/N_CodeStack_SwEx_AddIn_Delegates.htm">
     <HelpTOCNode Title="Access3rdPartyDataDelegate Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_Access3rdPartyDataDelegate.htm" />
     <HelpTOCNode Title="ConfigurationChangeDelegate Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ConfigurationChangeDelegate.htm" />
-    <HelpTOCNode Id="cf6428aa-c728-47f0-9719-792eefcae2f5" Title="CustomPropertyModifyData Class" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData.htm">
-      <HelpTOCNode Id="780dbc2f-54fc-4560-9049-7d596e029d9d" Title="CustomPropertyModifyData Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData.htm">
+    <HelpTOCNode Id="904fb037-1152-47dd-a3bf-8984bb2baa14" Title="CustomPropertyModifyData Class" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData.htm">
+      <HelpTOCNode Id="3a1b4130-bc78-4e37-8b3e-33268ea2620d" Title="CustomPropertyModifyData Properties" Url="html/Properties_T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData.htm">
         <HelpTOCNode Title="Action Property " Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Action.htm" />
         <HelpTOCNode Title="Configuration Property " Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Configuration.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyData_Name.htm" />
@@ -160,6 +162,7 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="CustomPropertyModifyDelegate Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_CustomPropertyModifyDelegate.htm" />
+    <HelpTOCNode Title="DimensionChangeDelegate Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DimensionChangeDelegate.htm" />
     <HelpTOCNode Title="DocumentSaveDelegate Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DocumentSaveDelegate.htm" />
     <HelpTOCNode Title="DocumentStateChangedDelegate Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_DocumentStateChangedDelegate.htm" />
     <HelpTOCNode Title="EnableMethodDelegate(TCmdEnum) Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_EnableMethodDelegate_1.htm" />
@@ -167,7 +170,7 @@
     <HelpTOCNode Title="ObjectSelectionDelegate Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_ObjectSelectionDelegate.htm" />
     <HelpTOCNode Title="RebuildDelegate Delegate" Url="html/T_CodeStack_SwEx_AddIn_Delegates_RebuildDelegate.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="279ce31f-205d-4520-af4c-c01eb9d58142" Title="CodeStack.SwEx.AddIn.Enums" Url="html/N_CodeStack_SwEx_AddIn_Enums.htm">
+  <HelpTOCNode Id="dc3ad25b-525b-4c0d-a5f9-7e0fb81d5b2d" Title="CodeStack.SwEx.AddIn.Enums" Url="html/N_CodeStack_SwEx_AddIn_Enums.htm">
     <HelpTOCNode Title="Access3rdPartyDataState_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_Access3rdPartyDataState_e.htm" />
     <HelpTOCNode Title="CommandItemEnableState_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_CommandItemEnableState_e.htm" />
     <HelpTOCNode Title="ConfigurationChangeState_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_ConfigurationChangeState_e.htm" />
@@ -178,14 +181,14 @@
     <HelpTOCNode Title="SelectionState_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_SelectionState_e.htm" />
     <HelpTOCNode Title="swWorkspaceTypes_e Enumeration" Url="html/T_CodeStack_SwEx_AddIn_Enums_swWorkspaceTypes_e.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="c436d04b-36de-43c7-ab01-c9547c2f024f" Title="CodeStack.SwEx.AddIn.Exceptions" Url="html/N_CodeStack_SwEx_AddIn_Exceptions.htm">
+  <HelpTOCNode Id="f8c143ed-be3c-4a55-8b33-6903d4166286" Title="CodeStack.SwEx.AddIn.Exceptions" Url="html/N_CodeStack_SwEx_AddIn_Exceptions.htm">
     <HelpTOCNode Title="CallbackNotSpecifiedException Class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_CallbackNotSpecifiedException.htm" />
     <HelpTOCNode Title="GroupIdAlreadyExistsException Class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_GroupIdAlreadyExistsException.htm" />
     <HelpTOCNode Title="InvalidMenuToolbarOptionsException Class" Url="html/T_CodeStack_SwEx_AddIn_Exceptions_InvalidMenuToolbarOptionsException.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="4f8806ad-0ad1-4b26-9590-16d04e2b671d" Title="SolidWorks.Interop.sldworks" Url="html/N_SolidWorks_Interop_sldworks.htm">
-    <HelpTOCNode Id="5f4887da-7566-4ebf-bfbe-22c97238adff" Title="ModelDocExtension Class" Url="html/T_SolidWorks_Interop_sldworks_ModelDocExtension.htm">
-      <HelpTOCNode Id="9c02ef56-69c8-451a-beec-5e52cf269fdf" Title="ModelDocExtension Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_ModelDocExtension.htm">
+  <HelpTOCNode Id="168bed92-c93c-43e8-ada5-b14f261ebbfa" Title="SolidWorks.Interop.sldworks" Url="html/N_SolidWorks_Interop_sldworks.htm">
+    <HelpTOCNode Id="06e48caf-7961-4e6d-a789-bd269f0d829c" Title="ModelDocExtension Class" Url="html/T_SolidWorks_Interop_sldworks_ModelDocExtension.htm">
+      <HelpTOCNode Id="11f8ca07-923f-4e47-8972-699f08cf8b2e" Title="ModelDocExtension Methods" Url="html/Methods_T_SolidWorks_Interop_sldworks_ModelDocExtension.htm">
         <HelpTOCNode Title="Access3rdPartyStorageStore Method " Url="html/M_SolidWorks_Interop_sldworks_ModelDocExtension_Access3rdPartyStorageStore.htm" />
         <HelpTOCNode Title="Access3rdPartyStream Method " Url="html/M_SolidWorks_Interop_sldworks_ModelDocExtension_Access3rdPartyStream.htm" />
       </HelpTOCNode>
