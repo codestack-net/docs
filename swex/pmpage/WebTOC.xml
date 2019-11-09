@@ -2,7 +2,7 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome to the SwEx.PMPage" Url="html/welcome.htm" />
-  <HelpTOCNode Id="eecd7d54-640e-4fbd-a199-acf0417cc99c" Title="Version History" Url="html/version-history.htm">
+  <HelpTOCNode Id="be718e1d-d5ff-4598-9601-6a024a56711e" Title="Version History" Url="html/version-history.htm">
     <HelpTOCNode Title="Version 0.1.0" Url="html/v0-1-0.htm" />
     <HelpTOCNode Title="Version 0.2.0" Url="html/v0-2-0.htm" />
     <HelpTOCNode Title="Version 0.4.0" Url="html/v0-4-0.htm" />
@@ -11,86 +11,87 @@
     <HelpTOCNode Title="Version 0.6.0" Url="html/v0-6-0.htm" />
     <HelpTOCNode Title="Version 0.7.0" Url="html/v0-7-0.htm" />
     <HelpTOCNode Title="Version 0.7.1" Url="html/v0-7-1.htm" />
+    <HelpTOCNode Title="Version 0.7.2" Url="html/v0-7-2.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="8c04f7a1-b8e9-4e8e-832d-964909cb0fa7" Title="CodeStack.SwEx.PMPage" Url="html/N_CodeStack_SwEx_PMPage.htm">
-    <HelpTOCNode Id="a9abf44f-bd4a-40d8-997b-96a5647b9491" Title="PropertyManagerPageEx(THandler, TModel) Class" Url="html/T_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2.htm">
-      <HelpTOCNode Id="2830acde-ba4d-41a2-bacd-8c65b8d8cab3" Title="PropertyManagerPageEx(THandler, TModel) Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2__ctor.htm">
+  <HelpTOCNode Id="37c5bac8-7297-4847-ab30-b85d81a73cbb" Title="CodeStack.SwEx.PMPage" Url="html/N_CodeStack_SwEx_PMPage.htm">
+    <HelpTOCNode Id="d44764f3-d707-400d-89f2-95eb275f9b68" Title="PropertyManagerPageEx(THandler, TModel) Class" Url="html/T_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2.htm">
+      <HelpTOCNode Id="f4fbc485-950b-4076-bef1-24a2e39ce5cc" Title="PropertyManagerPageEx(THandler, TModel) Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2__ctor.htm">
         <HelpTOCNode Title="PropertyManagerPageEx(THandler, TModel) Constructor (ISldWorks)" Url="html/M_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2__ctor.htm" />
         <HelpTOCNode Title="PropertyManagerPageEx(THandler, TModel) Constructor (ISldWorks, IPageSpec)" Url="html/M_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b2bd1941-bdd0-40f9-ab2a-97d57ec2582f" Title="PropertyManagerPageEx(THandler, TModel) Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2.htm">
+      <HelpTOCNode Id="dd3e76c8-fb1f-4c1a-b6b2-aea034d57dca" Title="PropertyManagerPageEx(THandler, TModel) Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2.htm">
         <HelpTOCNode Title="Controls Property " Url="html/P_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Controls.htm" />
         <HelpTOCNode Title="Handler Property " Url="html/P_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Handler.htm" />
         <HelpTOCNode Title="Logger Property " Url="html/P_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Logger.htm" />
         <HelpTOCNode Title="Model Property " Url="html/P_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Model.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a60c6a66-8049-40d1-886a-d70509deaf3c" Title="PropertyManagerPageEx(THandler, TModel) Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2.htm">
+      <HelpTOCNode Id="fc747929-0409-4a2c-a2e1-137fa3e126ab" Title="PropertyManagerPageEx(THandler, TModel) Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2.htm">
         <HelpTOCNode Title="Show Method " Url="html/M_CodeStack_SwEx_PMPage_PropertyManagerPageEx_2_Show.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="03569cf2-c124-493b-b732-869128fad89e" Title="PropertyManagerPageHandlerEx Class" Url="html/T_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx.htm">
-      <HelpTOCNode Id="8adff2e6-7d6c-4e10-93a4-24b1cb33a9d5" Title="PropertyManagerPageHandlerEx Events" Url="html/Events_T_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx.htm">
+    <HelpTOCNode Id="0f06d769-bca2-498a-a90d-f45de3b80243" Title="PropertyManagerPageHandlerEx Class" Url="html/T_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx.htm">
+      <HelpTOCNode Id="dfa0c028-655a-4f62-a90e-558c9ff9a7c0" Title="PropertyManagerPageHandlerEx Events" Url="html/Events_T_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx.htm">
         <HelpTOCNode Title="Closed Event" Url="html/E_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx_Closed.htm" />
         <HelpTOCNode Title="Closing Event" Url="html/E_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx_Closing.htm" />
         <HelpTOCNode Title="DataChanged Event" Url="html/E_CodeStack_SwEx_PMPage_PropertyManagerPageHandlerEx_DataChanged.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="b4a35ebe-b523-4d86-a482-d1a234bff81f" Title="CodeStack.SwEx.PMPage.Attributes" Url="html/N_CodeStack_SwEx_PMPage_Attributes.htm">
-    <HelpTOCNode Id="bc0f1001-0e2e-4c22-911e-ce01d33b58a1" Title="BitmapOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_BitmapOptionsAttribute.htm">
+  <HelpTOCNode Id="6ff5fa10-0054-442c-822b-5ba8572364b5" Title="CodeStack.SwEx.PMPage.Attributes" Url="html/N_CodeStack_SwEx_PMPage_Attributes.htm">
+    <HelpTOCNode Id="0016923e-377b-4d54-8029-dde653e2b6d7" Title="BitmapOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_BitmapOptionsAttribute.htm">
       <HelpTOCNode Title="BitmapOptionsAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_BitmapOptionsAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c096c6cc-611b-4f3a-b4a9-4a19de17ce06" Title="ComboBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ComboBoxOptionsAttribute.htm">
+    <HelpTOCNode Id="dc173ba8-4074-4582-a40e-3322259e1bbe" Title="ComboBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ComboBoxOptionsAttribute.htm">
       <HelpTOCNode Title="ComboBoxOptionsAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_ComboBoxOptionsAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="94c5e67d-cb37-4d6f-ab3f-6698b25ddd7a" Title="ControlAttributionAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlAttributionAttribute.htm">
-      <HelpTOCNode Id="6d61d589-2abf-47f3-90d0-53cb08ddfd2c" Title="ControlAttributionAttribute Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_ControlAttributionAttribute__ctor.htm">
+    <HelpTOCNode Id="f7f1bc38-a3b4-4df4-be78-d5692fbccf96" Title="ControlAttributionAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlAttributionAttribute.htm">
+      <HelpTOCNode Id="aa10dc21-7e8d-412f-9fe2-83f4c83ab34d" Title="ControlAttributionAttribute Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_ControlAttributionAttribute__ctor.htm">
         <HelpTOCNode Title="ControlAttributionAttribute Constructor (swControlBitmapLabelType_e)" Url="html/M_CodeStack_SwEx_PMPage_Attributes_ControlAttributionAttribute__ctor.htm" />
         <HelpTOCNode Title="ControlAttributionAttribute Constructor (Type, String)" Url="html/M_CodeStack_SwEx_PMPage_Attributes_ControlAttributionAttribute__ctor_1.htm" />
         <HelpTOCNode Title="ControlAttributionAttribute Constructor (Type, String, String)" Url="html/M_CodeStack_SwEx_PMPage_Attributes_ControlAttributionAttribute__ctor_2.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d8f08c19-395e-4042-af9d-14d14c9a6510" Title="ControlOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlOptionsAttribute.htm">
+    <HelpTOCNode Id="9011d64b-6258-4589-8ebb-ab1f1e51f0f1" Title="ControlOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlOptionsAttribute.htm">
       <HelpTOCNode Title="ControlOptionsAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_ControlOptionsAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="fcf8c2ad-4d78-4299-825f-9ed4e688ec1f" Title="ControlTagAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlTagAttribute.htm">
+    <HelpTOCNode Id="c3b30817-1efe-454b-81d9-7bfb2307b787" Title="ControlTagAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_ControlTagAttribute.htm">
       <HelpTOCNode Title="ControlTagAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_ControlTagAttribute__ctor.htm" />
       <HelpTOCNode Title="ControlTagAttribute Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Attributes_ControlTagAttribute.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="9da102df-9661-422a-9b18-c0c016857722" Title="DependentOnAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_DependentOnAttribute.htm">
+    <HelpTOCNode Id="fa8db096-ef39-484f-894d-dd39e1406a28" Title="DependentOnAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_DependentOnAttribute.htm">
       <HelpTOCNode Title="DependentOnAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_DependentOnAttribute__ctor.htm" />
       <HelpTOCNode Title="DependentOnAttribute Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Attributes_DependentOnAttribute.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="12a72e33-e791-4bc2-b6cf-46c9e4e3db05" Title="HelpAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_HelpAttribute.htm">
+    <HelpTOCNode Id="37ec3cf6-0fc7-409d-9613-8605939e3832" Title="HelpAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_HelpAttribute.htm">
       <HelpTOCNode Title="HelpAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_HelpAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="b1f64821-aab3-45eb-a790-f7e4705ecd46" Title="IgnoreBindingAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_IgnoreBindingAttribute.htm">
+    <HelpTOCNode Id="048f0462-9ca5-44a5-9fc9-0b652f6fa3a8" Title="IgnoreBindingAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_IgnoreBindingAttribute.htm">
       <HelpTOCNode Title="IgnoreBindingAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_IgnoreBindingAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="de1a28b6-b1ef-48f0-a500-3c99f3374790" Title="MessageAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_MessageAttribute.htm">
+    <HelpTOCNode Id="c41feec6-633e-47eb-87e7-bde60f90140b" Title="MessageAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_MessageAttribute.htm">
       <HelpTOCNode Title="MessageAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_MessageAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="449aa354-00f7-4583-995d-39f0a6452f66" Title="NumberBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute.htm">
-      <HelpTOCNode Id="6b450747-9de0-40c0-9cfa-03af56367562" Title="NumberBoxOptionsAttribute Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute__ctor.htm">
+    <HelpTOCNode Id="7670d74e-2e58-4013-8865-fec84c588813" Title="NumberBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute.htm">
+      <HelpTOCNode Id="4593b4be-a7d6-46be-b2a8-9eedf0c74ef4" Title="NumberBoxOptionsAttribute Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute__ctor.htm">
         <HelpTOCNode Title="NumberBoxOptionsAttribute Constructor (swPropMgrPageNumberBoxStyle_e)" Url="html/M_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute__ctor_1.htm" />
         <HelpTOCNode Title="NumberBoxOptionsAttribute Constructor (swNumberboxUnitType_e, Double, Double, Double, Boolean, Double, Double, swPropMgrPageNumberBoxStyle_e)" Url="html/M_CodeStack_SwEx_PMPage_Attributes_NumberBoxOptionsAttribute__ctor.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d9b50890-c21e-4b91-b436-8ea9ea3deae7" Title="OptionBoxAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute.htm">
+    <HelpTOCNode Id="9986a85b-d9f0-46f3-ab1a-0a68a2d8c5eb" Title="OptionBoxAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute.htm">
       <HelpTOCNode Title="OptionBoxAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute__ctor.htm" />
       <HelpTOCNode Title="OptionBoxAttribute Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Attributes_OptionBoxAttribute.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c0ced72f-8ad0-4247-99e2-0a4a52887b11" Title="OptionBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_OptionBoxOptionsAttribute.htm">
+    <HelpTOCNode Id="5a73ff94-0c94-421b-a749-109bbd51b319" Title="OptionBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_OptionBoxOptionsAttribute.htm">
       <HelpTOCNode Title="OptionBoxOptionsAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_OptionBoxOptionsAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="17e1d851-4b6f-4912-98ff-9a7cb05c39fa" Title="PageOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute.htm">
-      <HelpTOCNode Id="ac478840-f173-424b-b0a6-fa1efe12474e" Title="PageOptionsAttribute Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute__ctor.htm">
+    <HelpTOCNode Id="672ec336-ca4a-4794-a46b-172e57638f3f" Title="PageOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute.htm">
+      <HelpTOCNode Id="7328c024-fb5e-48b6-a188-5e47116914cd" Title="PageOptionsAttribute Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute__ctor.htm">
         <HelpTOCNode Title="PageOptionsAttribute Constructor (swPropertyManagerPageOptions_e)" Url="html/M_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute__ctor.htm" />
         <HelpTOCNode Title="PageOptionsAttribute Constructor (Type, String, swPropertyManagerPageOptions_e)" Url="html/M_CodeStack_SwEx_PMPage_Attributes_PageOptionsAttribute__ctor_1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9a5c6747-aeba-402b-9ac6-af885d4d6b20" Title="SelectionBoxAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute.htm">
-      <HelpTOCNode Id="ab12463b-449c-4893-a216-84490d115813" Title="SelectionBoxAttribute Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute__ctor.htm">
+    <HelpTOCNode Id="27185cef-9e39-4ec2-97de-f217df3e44c1" Title="SelectionBoxAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute.htm">
+      <HelpTOCNode Id="9feb7ef1-d385-442c-a6eb-10ae9d48fe14" Title="SelectionBoxAttribute Constructor " Url="html/Overload_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute__ctor.htm">
         <HelpTOCNode Title="SelectionBoxAttribute Constructor (swSelectType_e[])" Url="html/M_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute__ctor.htm" />
         <HelpTOCNode Title="SelectionBoxAttribute Constructor (Int32, swSelectType_e[])" Url="html/M_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute__ctor_1.htm" />
         <HelpTOCNode Title="SelectionBoxAttribute Constructor (Type, swSelectType_e[])" Url="html/M_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute__ctor_3.htm" />
@@ -98,50 +99,53 @@
       </HelpTOCNode>
       <HelpTOCNode Title="SelectionBoxAttribute Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxAttribute.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="500777ce-21f2-467f-afe8-c703b01f2705" Title="SelectionBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxOptionsAttribute.htm">
+    <HelpTOCNode Id="6356d3a2-b549-4ef0-9cc8-cd0f3a0b158b" Title="SelectionBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_SelectionBoxOptionsAttribute.htm">
       <HelpTOCNode Title="SelectionBoxOptionsAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_SelectionBoxOptionsAttribute__ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="58ea9241-d6b6-422c-b57e-015372b64953" Title="TabAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TabAttribute.htm">
+    <HelpTOCNode Id="601aae55-7525-4c14-9955-7ec3e01dab56" Title="TabAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TabAttribute.htm">
       <HelpTOCNode Title="TabAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_TabAttribute__ctor.htm" />
       <HelpTOCNode Title="TabAttribute Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Attributes_TabAttribute.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f720ffba-7907-464d-af40-a1dbd4e8a6f1" Title="TextBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute.htm">
+    <HelpTOCNode Id="5054b803-f310-4838-b566-4725f82f151e" Title="TextBoxOptionsAttribute Class" Url="html/T_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute.htm">
       <HelpTOCNode Title="TextBoxOptionsAttribute Constructor " Url="html/M_CodeStack_SwEx_PMPage_Attributes_TextBoxOptionsAttribute__ctor.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="bf87084e-6b03-452d-a7fd-a41f9c44cc1e" Title="CodeStack.SwEx.PMPage.Base" Url="html/N_CodeStack_SwEx_PMPage_Base.htm">
-    <HelpTOCNode Id="b3efb975-16f1-42c2-9395-eac20b86460d" Title="ClosingArg Class" Url="html/T_CodeStack_SwEx_PMPage_Base_ClosingArg.htm">
-      <HelpTOCNode Id="dc89a2fe-cda2-4677-af72-aad65502371b" Title="ClosingArg Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Base_ClosingArg.htm">
+  <HelpTOCNode Id="7bf3e99e-0c96-4530-b3d8-da66b3c8e23c" Title="CodeStack.SwEx.PMPage.Base" Url="html/N_CodeStack_SwEx_PMPage_Base.htm">
+    <HelpTOCNode Id="993b6738-1d9b-49f4-8e40-030c703db397" Title="ClosingArg Class" Url="html/T_CodeStack_SwEx_PMPage_Base_ClosingArg.htm">
+      <HelpTOCNode Id="8372d515-a4da-4c93-9614-8ac656771e40" Title="ClosingArg Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Base_ClosingArg.htm">
         <HelpTOCNode Title="Cancel Property " Url="html/P_CodeStack_SwEx_PMPage_Base_ClosingArg_Cancel.htm" />
         <HelpTOCNode Title="ErrorMessage Property " Url="html/P_CodeStack_SwEx_PMPage_Base_ClosingArg_ErrorMessage.htm" />
         <HelpTOCNode Title="ErrorTitle Property " Url="html/P_CodeStack_SwEx_PMPage_Base_ClosingArg_ErrorTitle.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="13a5a1b3-437d-49d3-83b0-cb5729243e81" Title="DependencyHandler Class" Url="html/T_CodeStack_SwEx_PMPage_Base_DependencyHandler.htm">
+    <HelpTOCNode Id="ed56d111-e37a-4f08-827e-a9a7fff9cc61" Title="DependencyHandler Class" Url="html/T_CodeStack_SwEx_PMPage_Base_DependencyHandler.htm">
       <HelpTOCNode Title="DependencyHandler Constructor " Url="html/M_CodeStack_SwEx_PMPage_Base_DependencyHandler__ctor.htm" />
-      <HelpTOCNode Id="3e81989c-19b3-40f7-859f-f0a90acc1ac7" Title="DependencyHandler Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Base_DependencyHandler.htm">
-        <HelpTOCNode Title="UpdateControlState Method " Url="html/M_CodeStack_SwEx_PMPage_Base_DependencyHandler_UpdateControlState.htm" />
+      <HelpTOCNode Id="a5f5636c-86e7-47e5-9417-71b874a83dbc" Title="DependencyHandler Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Base_DependencyHandler.htm">
+        <HelpTOCNode Id="2df83a6c-e30d-4b48-83a2-b2ac0c27c71e" Title="UpdateControlState Method " Url="html/Overload_CodeStack_SwEx_PMPage_Base_DependencyHandler_UpdateControlState.htm">
+          <HelpTOCNode Title="UpdateControlState Method (IPropertyManagerPageControlEx, IPropertyManagerPageControlEx[])" Url="html/M_CodeStack_SwEx_PMPage_Base_DependencyHandler_UpdateControlState.htm" />
+          <HelpTOCNode Title="UpdateControlState Method (IPropertyManagerPageElementEx, IPropertyManagerPageElementEx[])" Url="html/M_CodeStack_SwEx_PMPage_Base_DependencyHandler_UpdateControlState_1.htm" />
+        </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="51c17384-e1ab-4178-a103-03ec7097014c" Title="IPageSpec Interface" Url="html/T_CodeStack_SwEx_PMPage_Base_IPageSpec.htm">
-      <HelpTOCNode Id="00081fe0-81bc-4a29-be82-c980faa562ce" Title="IPageSpec Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Base_IPageSpec.htm">
+    <HelpTOCNode Id="a190ee77-6baf-4a8f-8c68-ac59e5e1532d" Title="IPageSpec Interface" Url="html/T_CodeStack_SwEx_PMPage_Base_IPageSpec.htm">
+      <HelpTOCNode Id="8f997ca6-8c7f-4e12-8cde-a47f3ed0fa84" Title="IPageSpec Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Base_IPageSpec.htm">
         <HelpTOCNode Title="Icon Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPageSpec_Icon.htm" />
         <HelpTOCNode Title="Options Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPageSpec_Options.htm" />
         <HelpTOCNode Title="Title Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPageSpec_Title.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8b4cad29-3415-4f64-828d-ce5830a7cedf" Title="IPropertyManagerPageEx(THandler, TModel) Interface" Url="html/T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2.htm">
-      <HelpTOCNode Id="2a0b6b29-aa2a-4712-8c6c-800090ed0def" Title="IPropertyManagerPageEx(THandler, TModel) Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2.htm">
+    <HelpTOCNode Id="db5fbdca-abee-4a1c-8b46-9cc7bf6ff3bc" Title="IPropertyManagerPageEx(THandler, TModel) Interface" Url="html/T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2.htm">
+      <HelpTOCNode Id="67bec883-a469-4f4e-af9e-2f944268d77f" Title="IPropertyManagerPageEx(THandler, TModel) Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2.htm">
         <HelpTOCNode Title="Controls Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2_Controls.htm" />
         <HelpTOCNode Title="Handler Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2_Handler.htm" />
         <HelpTOCNode Title="Model Property " Url="html/P_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2_Model.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="50d2c02a-16ba-43cf-9092-ba7ecd6a6a78" Title="IPropertyManagerPageEx(THandler, TModel) Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2.htm">
+      <HelpTOCNode Id="eae9ef0e-be6b-4db3-b9b6-da2c41e80519" Title="IPropertyManagerPageEx(THandler, TModel) Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2.htm">
         <HelpTOCNode Title="Show Method " Url="html/M_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageEx_2_Show.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0a3c93f0-af7e-488f-9c25-936b73cb8ee4" Title="IPropertyManagerPageHandlerEx Interface" Url="html/T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx.htm">
-      <HelpTOCNode Id="08bbb5c3-dfd6-4bb6-8d26-2cb6c0dc8288" Title="IPropertyManagerPageHandlerEx Events" Url="html/Events_T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx.htm">
+    <HelpTOCNode Id="5ef79d43-1745-4f69-98eb-4fafefec210b" Title="IPropertyManagerPageHandlerEx Interface" Url="html/T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx.htm">
+      <HelpTOCNode Id="ee4c0a2f-8f15-4475-8087-457146c481e1" Title="IPropertyManagerPageHandlerEx Events" Url="html/Events_T_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx.htm">
         <HelpTOCNode Title="Closed Event" Url="html/E_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx_Closed.htm" />
         <HelpTOCNode Title="Closing Event" Url="html/E_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx_Closing.htm" />
         <HelpTOCNode Title="DataChanged Event" Url="html/E_CodeStack_SwEx_PMPage_Base_IPropertyManagerPageHandlerEx_DataChanged.htm" />
@@ -149,29 +153,50 @@
     </HelpTOCNode>
     <HelpTOCNode Title="PropertyManagerPageClosedDelegate Delegate" Url="html/T_CodeStack_SwEx_PMPage_Base_PropertyManagerPageClosedDelegate.htm" />
     <HelpTOCNode Title="PropertyManagerPageClosingDelegate Delegate" Url="html/T_CodeStack_SwEx_PMPage_Base_PropertyManagerPageClosingDelegate.htm" />
-    <HelpTOCNode Id="c823bbee-0f78-4d05-9b0e-ed0eda8480d4" Title="SelectionCustomFilter(TSelection) Class" Url="html/T_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1.htm">
+    <HelpTOCNode Id="3273ca55-ab13-4366-8ac6-b1a0bfa18823" Title="SelectionCustomFilter(TSelection) Class" Url="html/T_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1.htm">
       <HelpTOCNode Title="SelectionCustomFilter(TSelection) Constructor " Url="html/M_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1__ctor.htm" />
-      <HelpTOCNode Id="76443786-8e30-446e-a935-e79eae87a457" Title="SelectionCustomFilter(TSelection) Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1.htm">
-        <HelpTOCNode Id="0fda5cc2-622d-45f6-9c2a-8f9a795f1b1c" Title="Filter Method " Url="html/Overload_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1_Filter.htm">
+      <HelpTOCNode Id="6a2612a6-a9c0-4184-8a85-4c80dbb7de97" Title="SelectionCustomFilter(TSelection) Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1.htm">
+        <HelpTOCNode Id="69c88ea8-9704-4736-b82b-506b8639ef0c" Title="Filter Method " Url="html/Overload_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1_Filter.htm">
           <HelpTOCNode Title="Filter Method (TSelection)" Url="html/M_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1_Filter_1.htm" />
           <HelpTOCNode Title="Filter Method (IPropertyManagerPageControlEx, TSelection, swSelectType_e, String)" Url="html/M_CodeStack_SwEx_PMPage_Base_SelectionCustomFilter_1_Filter.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="bd96ec65-b1fa-46cb-8e03-8a9e5843b16c" Title="CodeStack.SwEx.PMPage.Controls" Url="html/N_CodeStack_SwEx_PMPage_Controls.htm">
-    <HelpTOCNode Id="2b256a75-7280-4a47-9ac9-39b4a63d5a45" Title="IPropertyManagerPageControlEx Interface" Url="html/T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx.htm">
-      <HelpTOCNode Id="b7b18d0b-27d3-4ef8-a44b-61fe2d6bf111" Title="IPropertyManagerPageControlEx Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx.htm">
-        <HelpTOCNode Title="Enabled Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_Enabled.htm" />
+  <HelpTOCNode Id="4ce9f0e0-af92-4471-a25e-2e5851742441" Title="CodeStack.SwEx.PMPage.Controls" Url="html/N_CodeStack_SwEx_PMPage_Controls.htm">
+    <HelpTOCNode Id="fd3de19a-adca-441a-855c-7eade7306df8" Title="IPropertyManagerPageControlEx Interface" Url="html/T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx.htm">
+      <HelpTOCNode Id="420de903-d8fa-41b5-a472-fad4557fd914" Title="IPropertyManagerPageControlEx Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx.htm">
         <HelpTOCNode Title="SwControl Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_SwControl.htm" />
-        <HelpTOCNode Title="Visible Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx_Visible.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="IPropertyManagerPageControlEx Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx.htm" />
       <HelpTOCNode Title="IPropertyManagerPageControlEx Events" Url="html/Events_T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageControlEx.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ec315aaa-c9fb-4bc5-be7c-31cff35b38a0" Title="PropertyManagerPageOptionBox Class" Url="html/T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm">
+    <HelpTOCNode Id="f0f160c0-797d-480b-adae-ba4666bf6316" Title="IPropertyManagerPageElementEx Interface" Url="html/T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageElementEx.htm">
+      <HelpTOCNode Id="df9b80fa-8481-4d06-931b-54f3e6d28a01" Title="IPropertyManagerPageElementEx Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageElementEx.htm">
+        <HelpTOCNode Title="Enabled Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageElementEx_Enabled.htm" />
+        <HelpTOCNode Title="Visible Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageElementEx_Visible.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="IPropertyManagerPageElementEx Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageElementEx.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f1d4ea95-9b6e-424b-86c5-2bfd6df4b39a" Title="IPropertyManagerPageGroupEx Interface" Url="html/T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageGroupEx.htm">
+      <HelpTOCNode Id="6e854fd7-6647-42e8-ae6a-da0b384dace5" Title="IPropertyManagerPageGroupEx Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageGroupEx.htm">
+        <HelpTOCNode Title="Group Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageGroupEx_Group.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fb47c82d-d572-47a6-936a-30bfa2ef680e" Title="IPropertyManagerPageTabEx Interface" Url="html/T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageTabEx.htm">
+      <HelpTOCNode Id="195579e0-720e-43ef-9257-6481d7942fec" Title="IPropertyManagerPageTabEx Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageTabEx.htm">
+        <HelpTOCNode Title="Tab Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_IPropertyManagerPageTabEx_Tab.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="73f36a91-be82-4e58-8c73-e02f4f68d583" Title="PropertyManagerPageElementEx Class" Url="html/T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageElementEx.htm">
+      <HelpTOCNode Id="c0f26b55-bef9-4eb1-8280-02a716c11cd4" Title="PropertyManagerPageElementEx Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageElementEx.htm">
+        <HelpTOCNode Title="GetSwControl(T) Method " Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageElementEx_GetSwControl__1.htm" />
+        <HelpTOCNode Title="GetValue(T) Method " Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageElementEx_GetValue__1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="214aaa6b-f300-485a-9a24-e5d22a318f40" Title="PropertyManagerPageOptionBox Class" Url="html/T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm">
       <HelpTOCNode Title="PropertyManagerPageOptionBox Constructor " Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox__ctor.htm" />
-      <HelpTOCNode Id="c8db024c-f150-4da3-8704-856b845b76bd" Title="PropertyManagerPageOptionBox Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm">
+      <HelpTOCNode Id="13b1120e-2089-4332-a008-75d54b651070" Title="PropertyManagerPageOptionBox Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm">
         <HelpTOCNode Title="BackgroundColor Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_BackgroundColor.htm" />
         <HelpTOCNode Title="Caption Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Caption.htm" />
         <HelpTOCNode Title="Checked Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Checked.htm" />
@@ -186,7 +211,7 @@
         <HelpTOCNode Title="Visible Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Visible.htm" />
         <HelpTOCNode Title="Width Property " Url="html/P_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_Width.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a9425ff3-656b-4705-a396-da485adcedd9" Title="PropertyManagerPageOptionBox Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm">
+      <HelpTOCNode Id="a46764a6-2d8b-462f-94a3-343ebeee631a" Title="PropertyManagerPageOptionBox Methods" Url="html/Methods_T_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox.htm">
         <HelpTOCNode Title="GetGroupBox Method " Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_GetGroupBox.htm" />
         <HelpTOCNode Title="SetPictureLabelByName Method " Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_SetPictureLabelByName.htm" />
         <HelpTOCNode Title="SetStandardPictureLabel Method " Url="html/M_CodeStack_SwEx_PMPage_Controls_PropertyManagerPageOptionBox_SetStandardPictureLabel.htm" />
@@ -194,10 +219,10 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="c937e6f5-f4a9-4095-98cf-c3ddca63140c" Title="CodeStack.SwEx.PMPage.Data" Url="html/N_CodeStack_SwEx_PMPage_Data.htm">
-    <HelpTOCNode Id="763c23f7-aa36-4620-8d81-97a701b0853f" Title="PageSpec Class" Url="html/T_CodeStack_SwEx_PMPage_Data_PageSpec.htm">
+  <HelpTOCNode Id="47bf95a9-9697-46dc-b9ad-2aa315c4ac6c" Title="CodeStack.SwEx.PMPage.Data" Url="html/N_CodeStack_SwEx_PMPage_Data.htm">
+    <HelpTOCNode Id="0e6adec1-e657-4762-b689-56b630cb723d" Title="PageSpec Class" Url="html/T_CodeStack_SwEx_PMPage_Data_PageSpec.htm">
       <HelpTOCNode Title="PageSpec Constructor " Url="html/M_CodeStack_SwEx_PMPage_Data_PageSpec__ctor.htm" />
-      <HelpTOCNode Id="8500beb2-5aab-4057-9963-478f7a770d16" Title="PageSpec Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Data_PageSpec.htm">
+      <HelpTOCNode Id="07eb2601-2af7-4d2b-9a94-ccbc412f8ca0" Title="PageSpec Properties" Url="html/Properties_T_CodeStack_SwEx_PMPage_Data_PageSpec.htm">
         <HelpTOCNode Title="Icon Property " Url="html/P_CodeStack_SwEx_PMPage_Data_PageSpec_Icon.htm" />
         <HelpTOCNode Title="Options Property " Url="html/P_CodeStack_SwEx_PMPage_Data_PageSpec_Options.htm" />
         <HelpTOCNode Title="Title Property " Url="html/P_CodeStack_SwEx_PMPage_Data_PageSpec_Title.htm" />
